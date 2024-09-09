@@ -15,11 +15,6 @@
 - 3.**修改** 翻译文本的语法
 ```
 
-## 版权所有
-
-Copyright © 2024-2025 ZeRo. ALL RIGHTS RESERVED.
-<br />
-
 ## 注意事项
 
 - 开始 `Commit` 之前请先阅读 <a rel="readme" href="地图配置提交规范.md">地图配置提交规范</a>
@@ -28,6 +23,11 @@ Copyright © 2024-2025 ZeRo. ALL RIGHTS RESERVED.
 - 文本保存格式统一保存为UTF8-无BOM
 - 文本缩进为统一4空格缩进, JSON/JSONC为2空格缩进
 - 文件内容禁止使用中文标点
+
+## 版权所有
+
+Copyright © 2024-2025 ZeRo. ALL RIGHTS RESERVED.
+<br />
 
 ## License
 
