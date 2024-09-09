@@ -1,0 +1,104 @@
+{
+  "ZeRo-社区地图翻译": {
+    "ZeRo-社区地图翻译": {
+      "Massage": "翻译的文本",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "**** MAP BY: Hannibal[SPA] (Rafuron) ****": {
+    "Massage": "**** MAP BY: Hannibal[SPA] (Rafuron) ****",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "** Server settings initialized **": {
+    "Massage": "** Server settings initialized **",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "** Tips and Adjustements: Maese Danielot **": {
+    "Massage": "** Tips and Adjustements: Maese Danielot **",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "** Optimization and Helping: Kaemon **": {
+    "Massage": "** Optimization and Helping: Kaemon **",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "**CURRENT DIFFICULTY ** >> NORMAL << **": {
+    "Massage": "**CURRENT DIFFICULTY ** >> NORMAL << **",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "*** MATERIAS AT LVL 1 ***": {
+    "Massage": "*** 第一关卡: 简单 ***",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "**Superior door opening in 30 seconds**": {
+    "Massage": "**门将在 30秒后打开**",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "** DOOR OPENS IN 5 s **": {
+    "Massage": "** 门即将在5秒后打开 **",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "**Door opening in 10 seconds**": {
+    "Massage": "**门即将在10秒后打开**",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "** The monster is going to attack ! **": {
+    "Massage": "** The monster is going to attack ! **",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP BY: Hannibal[SPA] (Rafuron) ": {
+    "Massage": " MAP BY: Hannibal[SPA] (Rafuron) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tips and Adjustements: Maese Danielot ": {
+    "Massage": " Tips and Adjustements: Maese Danielot ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Optimization and Helping: Kaemon ": {
+    "Massage": " Optimization and Helping: Kaemon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT DIFFICULTY   NORMAL  ": {
+    "Massage": "CURRENT DIFFICULTY   NORMAL  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MATERIAS AT LVL 1 ": {
+    "Massage": " 第一关 简单 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Server settings initialized ": {
+    "Massage": " Server settings initialized ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Superior door opening in 30 seconds": {
+    "Massage": "门将在30秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 5 s ": {
+    "Massage": " DOOR OPENS IN 5 s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opening in 10 seconds": {
+    "Massage": "Door opening in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
