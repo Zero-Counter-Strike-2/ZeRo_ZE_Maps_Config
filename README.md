@@ -4,7 +4,7 @@
 
 ```
 ## MapName
-- ze_.boatescape888
+- ze_boatescape888
 ## DataTime 
 - 2024年09月09日 15:24
 ## Operator
