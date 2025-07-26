@@ -1,5 +1,5 @@
 # ZeRo社区 僵尸逃跑 地图翻译文件仓库
-- **禁止** 直接 `Commit` 到 `main` 分支，请按照 <a rel="readme" href="地图翻译提交规范.md">地图翻译提交规范</a> 中的 `Title 书写规范` 创建分支 提交 并发起PR 
+- **禁止** 直接 `Commit` 到 `main` 分支，请按照 <a rel="readme" href="地图参数提交规范.md">地图参数提交规范</a> 中的 `Title 书写规范` 创建分支 提交 并发起PR 
 ## PR Description 模版
 
 ```
