@@ -1,0 +1,41 @@
+{
+  "武器id": {
+    "Id": "武器id",
+    "Name": "武器名字",
+    "Skills": [
+      {
+        "Id": "按钮id",
+        "Name": "默认技能",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1338": {
+    "Id": "1338",
+    "Name": "Weapon_1338",
+    "Skills": [
+      {
+        "Id": "Weapon_1338",
+        "Name": "Weapon_1338",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2219": {
+    "Id": "2219",
+    "Name": "Weapon_2219",
+    "Skills": [
+      {
+        "Id": "Weapon_2219",
+        "Name": "Weapon_2219",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}

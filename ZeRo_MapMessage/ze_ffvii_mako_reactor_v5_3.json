@@ -1,0 +1,187 @@
+{
+  " MAP BY: Hannibal[SPA] (Rafuron) ": {
+    "Massage": " MAP BY: Hannibal[SPA] (Rafuron) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Server settings initialized ": {
+    "Massage": " Server settings initialized ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tips and Adjustements: Maese Danielot ": {
+    "Massage": " Tips and Adjustements: Maese Danielot ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Optimization and Helping: Kaemon ": {
+    "Massage": " Optimization and Helping: Kaemon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT DIFFICULTY   NORMAL  ": {
+    "Massage": "CURRENT DIFFICULTY   NORMAL  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MATERIAS AT LVL 1 ": {
+    "Massage": " MATERIAS AT LVL 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Superior door opening in 30 seconds": {
+    "Massage": "Superior door opening in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 5 s ": {
+    "Massage": " DOOR OPENS IN 5 s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opening in 10 seconds": {
+    "Massage": "Door opening in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is opening in 10 seconds": {
+    "Massage": "Door is opening in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is opening in 5": {
+    "Massage": "Door is opening in 5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is open": {
+    "Massage": "Door is open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired HEAL MATERIA ": {
+    "Massage": " A player has adquired HEAL MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator is leaving in 10s": {
+    "Massage": "Elevator is leaving in 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We have reached the core  ...": {
+    "Massage": " We have reached the core  ...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ... Cloud is planting the bomb  ": {
+    "Massage": " ... Cloud is planting the bomb  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bomb has been planted    Run ": {
+    "Massage": " Bomb has been planted    Run ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep shooting ! We dont know what it can do ": {
+    "Massage": "Keep shooting ! We dont know what it can do ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The monster is going to attack ! ": {
+    "Massage": " The monster is going to attack ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Its dead  Go go! Run upstairs ! ": {
+    "Massage": "Its dead  Go go! Run upstairs ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPLOSION IN 145 SECONDS ": {
+    "Massage": " EXPLOSION IN 145 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  110 SECONDS LEFT ": {
+    "Massage": "  110 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  100 SECONDS LEFT ": {
+    "Massage": "  100 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  90 SECONDS LEFT ": {
+    "Massage": "  90 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  80 SECONDS LEFT ": {
+    "Massage": "  80 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 35 S ": {
+    "Massage": " DOOR OPENS IN 35 S ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Go to the control room and try to open it earlier ": {
+    "Massage": " Go to the control room and try to open it earlier ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  70 SECONDS LEFT ": {
+    "Massage": "  70 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Well done! Door is opening in 10 seconds ": {
+    "Massage": " Well done! Door is opening in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  60 SECONDS LEFT ": {
+    "Massage": "  60 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  50 SECONDS LEFT ": {
+    "Massage": "  50 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  40 SECONDS LEFT ": {
+    "Massage": "  40 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  30 SECONDS LEFT ": {
+    "Massage": "  30 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  20 SECONDS LEFT ": {
+    "Massage": "  20 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! ": {
+    "Massage": "Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT DIFFICULTY   HARD  ": {
+    "Massage": "CURRENT DIFFICULTY   HARD  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MATERIAS AT LVL 2 ": {
+    "Massage": " MATERIAS AT LVL 2 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

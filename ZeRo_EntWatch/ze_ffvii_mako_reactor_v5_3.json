@@ -1,0 +1,119 @@
+{
+  "武器id": {
+    "Id": "武器id",
+    "Name": "武器名字",
+    "Skills": [
+      {
+        "Id": "按钮id",
+        "Name": "默认技能",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1338": {
+    "Id": "1338",
+    "Name": "Weapon_1338",
+    "Skills": [
+      {
+        "Id": "Weapon_1338",
+        "Name": "Weapon_1338",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "607": {
+    "Id": "607",
+    "Name": "Weapon_607",
+    "Skills": [
+      {
+        "Id": "Weapon_607",
+        "Name": "Weapon_607",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "634": {
+    "Id": "634",
+    "Name": "Weapon_634",
+    "Skills": [
+      {
+        "Id": "Weapon_634",
+        "Name": "Weapon_634",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "585": {
+    "Id": "585",
+    "Name": "Weapon_585",
+    "Skills": [
+      {
+        "Id": "Weapon_585",
+        "Name": "Weapon_585",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "622": {
+    "Id": "622",
+    "Name": "Weapon_622",
+    "Skills": [
+      {
+        "Id": "Weapon_622",
+        "Name": "Weapon_622",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "642": {
+    "Id": "642",
+    "Name": "Weapon_642",
+    "Skills": [
+      {
+        "Id": "Weapon_642",
+        "Name": "Weapon_642",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "711": {
+    "Id": "711",
+    "Name": "Weapon_711",
+    "Skills": [
+      {
+        "Id": "Weapon_711",
+        "Name": "Weapon_711",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "676": {
+    "Id": "676",
+    "Name": "Weapon_676",
+    "Skills": [
+      {
+        "Id": "Weapon_676",
+        "Name": "Weapon_676",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}
