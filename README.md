@@ -1,5 +1,13 @@
 # ZeRo社区 僵尸逃跑 地图配置文件仓库
 - **禁止** 直接 `Commit` 到 `main` 分支，请按照 <a rel="readme" href="地图参数提交规范.md">地图参数提交规范</a> 中的 `Title 书写规范` 创建分支 提交 并发起PR 
+
+## 各模块提交说明
+- <a rel="readme" href="ZeRo_BossHP/BOSSHP.md">BOSSHP</a>
+- <a rel="readme" href="ZeRo_EntWatch/EntWatch.md">EntWatch</a>
+- <a rel="readme" href="ZeRo_MapCvar_Config/Main配置介绍.md">MapCvar</a>
+- <a rel="readme" href="ZeRo_MapCvar_Config/Cvar武器.md">Cvar武器</a>
+- <a rel="readme" href="ZeRo_MapMessage/MapMassage.md">MapMassage</a>
+
 ## PR Description 模版
 
 ```
