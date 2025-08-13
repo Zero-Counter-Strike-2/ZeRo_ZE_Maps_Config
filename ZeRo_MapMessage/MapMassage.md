@@ -33,7 +33,7 @@
 {
   "原文本": {
     "Massage": "翻译后的文本",
-    "M-Bool": 是否显示屏幕提示,
+    "M-Time": 是否开启倒计时,
     "Value": 预留参数(通常为0)
   }
 }
@@ -47,7 +47,7 @@
 |------|------|------|------|------|
 | `原文本` | string | 是 | 地图中触发的原始英文文本 | `"The door will open in 30 seconds"` |
 | `Massage` | string | 是 | 翻译后的中文文本 | `"门将在30秒后开启"` |
-| `M-Bool` | boolean | 是 | 是否在屏幕中央显示提示 | `true` |
+| `M-Time` | boolean | 是 | 是否开启倒计时 | `true` |
 | `Value` | integer | 否 | 预留参数(通常设置为0) | `0` |
 
 ## 使用方法
@@ -66,7 +66,7 @@
 {
   "The door will open in 30 seconds": {
     "Massage": "门将在30秒后开启",
-    "M-Bool": true,
+    "M-Time": true,
     "Value": 0
   }
 }
@@ -79,18 +79,18 @@
 {
   "Welcome to the map": {
     "Massage": "欢迎来到这张地图",
-    "M-Bool": false,
+    "M-Time": false,
     "Value": 0
   }
 }
 ```
 
-#### 重要提示文本
+#### 倒计时提示
 ```json
 {
-  "!!! Emergency exit opening !!!": {
-    "Massage": "紧急出口正在开启",
-    "M-Bool": true,
+  "!!! Emergency exit opening 5s!!!": {
+    "Massage": "紧急出口5秒后开启",
+    "M-Time": true,
     "Value": 0
   }
 }
@@ -116,19 +116,19 @@
 {
   "Door opens in 60 seconds": {
     "Massage": "门将在60秒后开启",
-    "M-Bool": true,
+    "M-Time": true,
     "Value": 0
   }
 }
 ```
 
-### 3. 重要提示文本
-需要屏幕中央显示的重要信息：
+### 3. 关闭倒计时
+因为有数字会被识别为计时器：
 ```json
 {
-  "Boss fight begins": {
-    "Massage": "BOSS战开始",
-    "M-Bool": true,
+  "Mako Version1.2.0": {
+    "Massage": "Mako版本1.2.0",
+    "M-Time": false,
     "Value": 0
   }
 }
@@ -140,39 +140,39 @@
 
 ```json
 {
-  "Welcome to Minecraft Adventure": {
-    "Massage": "欢迎来到我的世界冒险",
-    "M-Bool": false,
+  "Welcome to Minecraft Adventure，版本5.0.1": {
+    "Massage": "欢迎来到我的世界冒险，版本5.0.1",
+    "M-Time": false,
     "Value": 0
   },
   "The portal will activate in 30 seconds": {
     "Massage": "传送门将在30秒后激活",
-    "M-Bool": true,
+    "M-Time": true,
     "Value": 0
   },
   "Ender Dragon fight begins in 10 seconds": {
     "Massage": "末影龙战斗将在10秒后开始",
-    "M-Bool": true,
+    "M-Time": true,
     "Value": 0
   },
   "The bridge will collapse in 45 seconds": {
     "Massage": "桥梁将在45秒后坍塌",
-    "M-Bool": true,
+    "M-Time": true,
     "Value": 0
   },
   "Safe zone reached": {
     "Massage": "已到达安全区域",
-    "M-Bool": false,
+    "M-Time": false,
     "Value": 0
   },
   "!!! Zombies incoming !!!": {
     "Massage": "僵尸来袭",
-    "M-Bool": true,
+    "M-Time": true,
     "Value": 0
   },
   "Chest room opens in 20 seconds": {
     "Massage": "宝箱房间将在20秒后开启",
-    "M-Bool": true,
+    "M-Time": true,
     "Value": 0
   }
 }
@@ -255,18 +255,18 @@ developer 1
 {
   "Area cleared": {
     "Massage": "区域已清理完毕",
-    "M-Bool": false,
+    "M-Time": false,
     "Value": 0
   }
 }
 ```
 
-#### 重要提示类
+#### 关闭倒计时提示类
 ```json
 {
-  "!!! Final battle !!!": {
-    "Massage": "最终战斗开始",
-    "M-Bool": true,
+  "!!! Version 5.0.0!!!": {
+    "Massage": "版本1.0.0",
+    "M-Time": false,
     "Value": 0
   }
 }
@@ -277,7 +277,7 @@ developer 1
 {
   "Escape in 60 seconds": {
     "Massage": "60秒后撤离",
-    "M-Bool": true,
+    "M-Time": true,
     "Value": 0
   }
 }
@@ -285,7 +285,7 @@ developer 1
 
 ### 2. 性能优化建议
 
-1. **合理使用屏幕提示**: 重要信息才设置 `M-Bool: true`
+1. **合理使用倒计时提示**: 重要信息才设置 `M-Time: true`
 2. **及时清理无用配置**: 删除不再使用的文本配置
 3. **避免过长文本**: 屏幕提示文本建议控制在20字以内
 
@@ -320,7 +320,7 @@ developer 1
 {
   "Welcome": {
     "Massage": "欢迎",
-    "M-Bool": false,
+    "M-Bool": true,
     "Value": 0
   }
 }
