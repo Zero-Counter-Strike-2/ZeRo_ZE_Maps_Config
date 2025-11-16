@@ -1945,9 +1945,9 @@
         "Shuxing": "简单",
         "CD": 24
     },
-    "ze_lotr_minas_tirith": {
+    "ze_lotr_minas_tirith_recompile": {
         "Id": "3353505696",
-        "LangName": "魔戒:米那斯提力斯",
+        "LangName": "魔戒:米那斯提力斯L",
         "JiFen": 300,
         "Shuxing": "困难",
         "CD": 24
@@ -2808,3 +2808,4 @@
     }
 
 }
+
