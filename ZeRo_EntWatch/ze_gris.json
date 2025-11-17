@@ -1,27 +1,53 @@
 {
-  "武器id": {
-    "Id": "武器id",
-    "Name": "武器名字",
+  "3346": {
+    "Id": "3346",
+    "Name": "ZM 射线",
     "Skills": [
       {
-        "Id": "按钮id",
-        "Name": "默认技能",
-        "Cooldown": 0,
+        "Id": "3325",
+        "Name": "ZM 射线",
+        "Cooldown": 5,
         "MaxUses": -1,
         "Mode": 2
       }
     ]
   },
-  "1338": {
-    "Id": "1338",
-    "Name": "Weapon_1338",
+  "3379": {
+    "Id": "3379",
+    "Name": "ZM 天谴",
     "Skills": [
       {
-        "Id": "Weapon_1338",
-        "Name": "Weapon_1338",
+        "Id": "0",
+        "Name": "ZM 天谴",
         "Cooldown": 0,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 4
+      }
+    ]
+  },
+  "3391": {
+    "Id": "3391",
+    "Name": "ZM 禁锢",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "ZM 禁锢",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "1338": {
+    "Id": "1338",
+    "Name": "奶圈",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "奶圈",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
       }
     ]
   }
