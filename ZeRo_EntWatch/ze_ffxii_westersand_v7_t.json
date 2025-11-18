@@ -7,7 +7,7 @@
         "Id": "791",
         "Name": "水",
         "Cooldown": 65,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -20,7 +20,7 @@
         "Id": "832",
         "Name": "电",
         "Cooldown": 60,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -33,7 +33,7 @@
         "Id": "807",
         "Name": "火",
         "Cooldown": 60,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -59,7 +59,7 @@
         "Id": "797",
         "Name": "土",
         "Cooldown": 65,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -72,7 +72,7 @@
         "Id": "819",
         "Name": "奶",
         "Cooldown": 60,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -85,7 +85,7 @@
         "Id": "834",
         "Name": "风",
         "Cooldown": 65,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -98,7 +98,7 @@
         "Id": "487",
         "Name": "ZM 致盲",
         "Cooldown": 60,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -111,7 +111,7 @@
         "Id": "1076",
         "Name": "ZM 隐身",
         "Cooldown": 75,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -124,7 +124,7 @@
         "Id": "1071",
         "Name": "ZM 秒杀",
         "Cooldown": 75,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -137,7 +137,7 @@
         "Id": "467",
         "Name": "ZM 黑洞",
         "Cooldown": 90,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
