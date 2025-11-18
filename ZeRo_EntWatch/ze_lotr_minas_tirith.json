@@ -12,19 +12,6 @@
       }
     ]
   },
-  "901": {
-    "Id": "901",
-    "Name": "旗帜",
-    "Skills": [
-      {
-        "Id": "0",
-        "Name": "旗帜/",
-        "Cooldown": 0,
-        "MaxUses": -1,
-        "Mode": 4
-      }
-    ]
-  },
   "675": {
     "Id": "675",
     "Name": "骑兵",
@@ -170,11 +157,11 @@
   },
   "760": {
     "Id": "760",
-    "Name": "障碍物 便当盒",
+    "Name": "障碍物 饭盆",
     "Skills": [
       {
         "Id": "237",
-        "Name": "障碍物 便当盒",
+        "Name": "障碍物 饭盆",
         "Cooldown": 0,
         "MaxUses": 1,
         "Mode": 0
@@ -248,11 +235,11 @@
   },
   "695": {
     "Id": "695",
-    "Name": "骑士",
+    "Name": "高达",
     "Skills": [
       {
         "Id": "0",
-        "Name": "骑士",
+        "Name": "高达",
         "Cooldown": 0,
         "MaxUses": -1,
         "Mode": 4
@@ -266,19 +253,6 @@
       {
         "Id": "0",
         "Name": "油",
-        "Cooldown": 0,
-        "MaxUses": -1,
-        "Mode": 4
-      }
-    ]
-  },
-  "900": {
-    "Id": "900",
-    "Name": "ZM 旗帜",
-    "Skills": [
-      {
-        "Id": "0",
-        "Name": "ZM 旗帜",
         "Cooldown": 0,
         "MaxUses": -1,
         "Mode": 4
