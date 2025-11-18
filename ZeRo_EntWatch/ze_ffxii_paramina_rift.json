@@ -1,0 +1,197 @@
+{
+  "13019": {
+    "Id": "13019",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "15491",
+        "Name": "治疗",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "13020": {
+    "Id": "13020",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "15493",
+        "Name": "火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "13021": {
+    "Id": "13021",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "15495",
+        "Name": "冰",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "13022": {
+    "Id": "13022",
+    "Name": "毒",
+    "Skills": [
+      {
+        "Id": "15497",
+        "Name": "毒",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "13023": {
+    "Id": "13023",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "15499",
+        "Name": "风",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "13024": {
+    "Id": "13024",
+    "Name": "小药",
+    "Skills": [
+      {
+        "Id": "15505",
+        "Name": "小药",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "13025": {
+    "Id": "13025",
+    "Name": "大药",
+    "Skills": [
+      {
+        "Id": "15507",
+        "Name": "大药",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "13026": {
+    "Id": "13026",
+    "Name": "弹药",
+    "Skills": [
+      {
+        "Id": "15509",
+        "Name": "弹药",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "13027": {
+    "Id": "13027",
+    "Name": "加速",
+    "Skills": [
+      {
+        "Id": "15511",
+        "Name": "加速",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "13028": {
+    "Id": "13028",
+    "Name": "终极",
+    "Skills": [
+      {
+        "Id": "15513",
+        "Name": "终极",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "13029": {
+    "Id": "13029",
+    "Name": "皇帝",
+    "Skills": [
+      {
+        "Id": "15517",
+        "Name": "皇帝",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "13031": {
+    "Id": "13031",
+    "Name": "僵尸秒杀",
+    "Skills": [
+      {
+        "Id": "15487",
+        "Name": "僵尸秒杀",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "13032": {
+    "Id": "13032",
+    "Name": "僵尸黑洞",
+    "Skills": [
+      {
+        "Id": "15489",
+        "Name": "僵尸黑洞",
+        "Cooldown": 85,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "13033": {
+    "Id": "13033",
+    "Name": "僵尸冰",
+    "Skills": [
+      {
+        "Id": "15501",
+        "Name": "僵尸冰",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "13034": {
+    "Id": "13034",
+    "Name": "僵尸火",
+    "Skills": [
+      {
+        "Id": "15503",
+        "Name": "僵尸火",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}
