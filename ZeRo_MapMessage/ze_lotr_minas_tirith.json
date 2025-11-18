@@ -1,0 +1,492 @@
+{
+  "** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **": {
+    "Massage": "地牢：防守至撤退信号出现",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** (DUNGEONS) ** THE DOOR IS UNLOCKED NOW **": {
+    "Massage": "地牢：门现在已解锁",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** (LIBRARY) ** DOORS ARE UNLOCKED NOW **": {
+    "Massage": "图书馆：门现在已解锁",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **": {
+    "Massage": "图书馆：防守至撤退信号出现",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **": {
+    "Massage": "暗影与烈焰的魔物已然降临",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** A DOOR IS OPEN ** RUN UPSTAIRS ** GO GO GO **": {
+    "Massage": "一扇门开了！到上面去！快！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** ADMIN PRESSED KILL ALL BUTTON **": {
+    "Massage": "管理员按下了全员处死按钮",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **": {
+    "Massage": "所有人都进来！准备最后一战！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** All humans at bottom part will die in 15 seconds **": {
+    "Massage": "下层人类将在15秒后处死",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**": {
+    "Massage": "所有僵尸神器都可以无视等级拾取，Lv5僵尸神器除外",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Catapult 1 activated **": {
+    "Massage": "一号投石机已触发",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Catapult 2 activated **": {
+    "Massage": "二号投石机已触发",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** CONSTANT METEOR HAS BEEN ENABLED **": {
+    "Massage": "天谴模式已开启",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** CURRENT STAGE >> PART 4 >> THE LAST STAND **": {
+    "Massage": "当前阶段：第四阶段：背水一战",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**": {
+    "Massage": "保卫奥斯吉利亚斯！我们绝不能不战而退！(30 秒)",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **": {
+    "Massage": "防守主城门，以便继续在米那斯提力斯的高处进行防御！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** DEFEND THIS PLACE FOR 35 SECONDS **": {
+    "Massage": "防守此区域35秒",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** DEFEND THIS PLACE FOR 70 SECONDS! **": {
+    "Massage": "防守此区域70秒",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** DOOR 1 LOCKED **": {
+    "Massage": "一号门已关闭",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** DOOR 2 LOCKED **": {
+    "Massage": "二号门已关闭",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** DOOR IS CLOSED **": {
+    "Massage": "门已关闭了",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** DOOR IS OPENING **": {
+    "Massage": "门正在打开",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** DOORS LOCKED **": {
+    "Massage": "门已全部关闭",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** DOORS UNLOCKED ** RETREAT ! **": {
+    "Massage": "门打开了！撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** ENABLED BLUE COLORCORRECTION AND PARTICLES **": {
+    "Massage": "启用蓝色校正和粒子特效校正",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** EXTREME MODE : ON **": {
+    "Massage": "极限模式已开启",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** FALL BACK! **": {
+    "Massage": "撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** FEEL FREE TO RTV THE MAP **": {
+    "Massage": "RTV更换地图",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **": {
+    "Massage": "大门紧闭着，需要有人去按下大门开关！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** INCREASED NUMBER OF NAZGULS **": {
+    "Massage": "戒灵数量增加",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** KILL THE REMAINING ZOMBIES **": {
+    "Massage": "杀死剩余僵尸！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** KILL THE REMAINING ZOMBIES! **": {
+    "Massage": "杀死剩余僵尸！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** LIFT IS LEAVING IN 10 SECONDS **": {
+    "Massage": "升降梯将于10秒后离开",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **": {
+    "Massage": "神器等级为0的玩家自动升1级",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** MAP BY Hannibal [SPA] (Rafuron) **": {
+    "Massage": "地图作者：Hannibal [SPA] (Rafuron)",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **": {
+    "Massage": "干得漂亮！金属门将在10秒后打开",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **": {
+    "Massage": "兽人突破了我们的阵地！撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** OSGILIATH IS LOST ** RETREAT ! **": {
+    "Massage": "奥斯吉力亚斯已经沦陷了！撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *": {
+    "Massage": "守住建筑直至民众安全撤离",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** RESIST 25 SECONDS! **": {
+    "Massage": "防守25秒",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** RETREAT !! RIVER ZONE IS LOST **": {
+    "Massage": "撤退！！河岸防守区域已经沦陷了！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** RETREAT! **": {
+    "Massage": "撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **": {
+    "Massage": "攻城塔已就位！城墙沦陷了！撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** STAGE 3 COMPLETED **": {
+    "Massage": "第三阶段已完成",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **": {
+    "Massage": "第四阶段已完成，开启极限模式！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** STAGE COMPLETED **": {
+    "Massage": "阶段完成",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** STARTING AT FIRST LEVEL! **": {
+    "Massage": "从第一关开始",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** TAKE THE HORSES  **": {
+    "Massage": "快跳到马背上！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Thanks to Kaemon **": {
+    "Massage": "感谢Kaemon",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THE BOATS ARE COMMING ** PREPARE YOURSELVES **": {
+    "Massage": "僵尸船来了！做好准备！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **": {
+    "Massage": "天花板塌了！快爬上去！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **": {
+    "Massage": "幽灵军团即将来袭！做好准备决一死战！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **": {
+    "Massage": "开关已被按下，大门将于10秒后打开",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** THE LIFT IS LEAVING IN 10 SECONDS **": {
+    "Massage": "升降梯将于10秒后离开",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** THE POSITION IS LOST ** RETREAT **": {
+    "Massage": "这个区域即将沦陷！撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **": {
+    "Massage": "游戏已经开始，选择一个入口进入，大规模传送将在20秒后启动",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **": {
+    "Massage": "游戏即将开始，确认你的神器等级以获得相应的神器",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **": {
+    "Massage": "通往米纳斯上层的通道已打开！前往米纳斯顶部！生存90秒",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THE WHITE KNIGHT IS READY ROCK THE WORLD**": {
+    "Massage": "白骑士蓄势待发，即将震撼世界！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THEY ARE IN! RETREAT! **": {
+    "Massage": "他们冲进来了！撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THEY ARE TRYING TO GET IN ** SHOOT! **": {
+    "Massage": "他们试图突破我们的防线！阻止他们！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THIS IS OUT OF CONTROL! RETREAT NOW ! **": {
+    "Massage": "这里失控了！撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** This is the first round. Wait for more players to restart round or suicide. **": {
+    "Massage": "这是第一回合，等待更多玩家以重新开始或自杀",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **": {
+    "Massage": "这是最后一个防守点，生存到最后",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **": {
+    "Massage": "这是最后一战！防守直至信号出现",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **": {
+    "Massage": "这是决胜时刻！像从未战斗过一样战斗吧！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 1 : press +use on pickable objects to build barricades ** ": {
+    "Massage": "提示1：按E键可放置拾取到的障碍物",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 10 : horse and armor (while shield is not broken) items can push zombies **": {
+    "Massage": "提示10：人类神器骑兵和重甲兵的护盾能顶退僵尸",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 11 : Balrog scream heals near zombies and increases speed temporally **": {
+    "Massage": "提示11：炎魔右键的吼叫会治疗并暂时增加附近僵尸的速度",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **": {
+    "Massage": "提示12：第四关的饭盆在第二个塔楼顶部（在木斜坡后右转）",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **": {
+    "Massage": "提示13：甘道夫的大招释放方式是：DAWDS 高达的大招释放方式是：AADDSWSW",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 2 : reach and win the end of a stage to level up ** ": {
+    "Massage": "提示2：存活通关可以提高神器等级",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 3 : take items at zombie and human shops in spawn ** ": {
+    "Massage": "提示3：在僵尸和人类神器商店可以根据神器等级获的相应神器",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **": {
+    "Massage": "提示4：你目前的神器等级是你的分数除以100左右",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 5 : barricades health depends on the size and material **": {
+    "Massage": "提示5：障碍物的坚固程度取决于它的大小和所用的材料",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **": {
+    "Massage": "提示6：防守时间往往很长，尽可能的在前面防守",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 7 : guards work as stoppers * but you can shoot throught them **": {
+    "Massage": "提示7：卫兵可以阻拦僵尸，你可以通过他们射击僵尸",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **": {
+    "Massage": "提示8：僵尸神器中梯子和炸药桶是很强大的神器，你必须第一时间杀死他们",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **": {
+    "Massage": "提示9：你可以把障碍物放在卫兵的身边以获得最大的防守效果",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** UNLIMITED AMMO ON **": {
+    "Massage": "无限弹药已开启！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **": {
+    "Massage": "使用障碍物盖住大门或防守60秒！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **": {
+    "Massage": "使用投石车继续防守米纳斯！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **": {
+    "Massage": "再等一下！其它幸存者正在赶来",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WARMUP ROUND **": {
+    "Massage": "热身回合",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS ** ": {
+    "Massage": "热身回合，将在10秒后重启回合",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS ** ": {
+    "Massage": "热身回合，将在60秒后重启回合",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WARMUP ROUND IS OVER! **": {
+    "Massage": "热身回合结束",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WATCH OUT! **": {
+    "Massage": "小心！！！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WATCH OUT! WE ARE UNDER SIEGE **": {
+    "Massage": "小心！我们身陷重围！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **": {
+    "Massage": "我们正在接近米纳斯的顶部！防守30秒！",
+    "M-Time": true,
+    "Value": 0
+  }
+  "** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **": {
+    "Massage": "我们被困住了！为你的生命而战！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** WE HAVE LOST THE POSTION ** FALL BACK **": {
+    "Massage": "我们失去了这个地方！撤退！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **": {
+    "Massage": "你做到了！你通关了最高难度！所有神器已解锁",
+    "M-Time": false,
+    "Value": 0
+  }
+  "** ZOMBIES ARE COMMING! CLOSE THE DOOR! **": {
+    "Massage": "僵尸冲过来了！快把门关上！",
+    "M-Time": false,
+    "Value": 0
+  }
+  "*** This map is a port in progress and is not currently available to play on your server. Feel free to change map. ***": {
+    "Massage": "该地图正在开发中，当前可能无法在您的服务器上游玩，您可以随意更换地图。",
+    "M-Time": false,
+    "Value": 0
+  }
+  "**CURRENT STAGE >> PART 1 >> OSGILIATH **": {
+    "Massage": "当前阶段：第一阶段：奥斯吉力亚斯之战",
+    "M-Time": false,
+    "Value": 0
+  }
+  "**CURRENT STAGE >> PART 2 >> MAIN GATES **": {
+    "Massage": "当前阶段：第二阶段：主城门",
+    "M-Time": false,
+    "Value": 0
+  }
+  "**CURRENT STAGE >> PART 3 >> CATAPULTS **": {
+    "Massage": "当前阶段：第三阶段：攻城塔",
+    "M-Time": false,
+    "Value": 0
+  }
+}
