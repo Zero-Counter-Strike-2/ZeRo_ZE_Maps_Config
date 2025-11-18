@@ -1,0 +1,197 @@
+{
+  "2928": {
+    "Id": "2928",
+    "Name": "流水",
+    "Skills": [
+      {
+        "Id": "2923",
+        "Name": "流水",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2966": {
+    "Id": "2966",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "2970",
+        "Name": "电",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2936": {
+    "Id": "2936",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "2941",
+        "Name": "火",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2950": {
+    "Id": "2950",
+    "Name": "终极闪光",
+    "Skills": [
+      {
+        "Id": "2943",
+        "Name": "终极闪光",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "2961": {
+    "Id": "2961",
+    "Name": "大地元素",
+    "Skills": [
+      {
+        "Id": "2930",
+        "Name": "大地元素",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2955": {
+    "Id": "2955",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "2956",
+        "Name": "治疗",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2976": {
+    "Id": "2976",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "2973",
+        "Name": "风",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2917": {
+    "Id": "2917",
+    "Name": "ZM 致盲",
+    "Skills": [
+      {
+        "Id": "2918",
+        "Name": "ZM 致盲",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3007": {
+    "Id": "3007",
+    "Name": "ZM 隐身",
+    "Skills": [
+      {
+        "Id": "3004",
+        "Name": "ZM 隐身",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2998": {
+    "Id": "2998",
+    "Name": "ZM 秒杀",
+    "Skills": [
+      {
+        "Id": "2999",
+        "Name": "ZM 秒杀",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2901": {
+    "Id": "2901",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "2905",
+        "Name": "ZM 黑洞",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3090": {
+    "Id": "3090",
+    "Name": "ZM 治疗",
+    "Skills": [
+      {
+        "Id": "3084",
+        "Name": "ZM 治疗",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3042": {
+    "Id": "3042",
+    "Name": "ZM 护盾",
+    "Skills": [
+      {
+        "Id": "3044",
+        "Name": "ZM 护盾",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3112": {
+    "Id": "3112",
+    "Name": "ZM 火",
+    "Skills": [
+      {
+        "Id": "3108",
+        "Name": "ZM 火",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3114": {
+    "Id": "3114",
+    "Name": "ZM 冰",
+    "Skills": [
+      {
+        "Id": "3117",
+        "Name": "ZM 冰",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}
