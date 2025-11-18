@@ -1,7 +1,7 @@
 {
     "ze_aztecnoob_p": {
         "Id": "3070231528",
-        "LangName": "阿兹特克遗迹2",
+        "LangName": "阿兹特克遗迹3",
         "JiFen": 60,
         "Shuxing": "简单",
         "CD": 12
@@ -2806,6 +2806,4 @@
         "Shuxing": "困难",
         "CD": 48
     }
-
 }
-
