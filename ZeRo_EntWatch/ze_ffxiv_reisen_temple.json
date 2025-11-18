@@ -7,7 +7,7 @@
         "Id": "8717",
         "Name": "火",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -20,7 +20,7 @@
         "Id": "8731",
         "Name": "荧光墙",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -33,7 +33,7 @@
         "Id": "8724",
         "Name": "岩",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -46,7 +46,7 @@
         "Id": "8778",
         "Name": "雷爆",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -59,7 +59,7 @@
         "Id": "8741",
         "Name": "赤霄",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -72,7 +72,7 @@
         "Id": "8748",
         "Name": "治疗",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -85,7 +85,7 @@
         "Id": "8785",
         "Name": "冻结",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -98,7 +98,7 @@
         "Id": "8755",
         "Name": "幽水",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
@@ -111,7 +111,7 @@
         "Id": "8762",
         "Name": "风",
         "Cooldown": 50,
-        "MaxUses": 0,
+        "MaxUses": -1,
         "Mode": 2
       }
     ]
