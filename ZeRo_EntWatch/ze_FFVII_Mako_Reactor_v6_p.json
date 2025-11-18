@@ -1,0 +1,158 @@
+{
+  "1502": {
+    "Id": "1502",
+    "Name": "剧毒",
+    "Skills": [
+      {
+        "Id": "1500",
+        "Name": "剧毒",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1510": {
+    "Id": "1510",
+    "Name": "盾",
+    "Skills": [
+      {
+        "Id": "1508",
+        "Name": "盾",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1518": {
+    "Id": "1518",
+    "Name": "终极",
+    "Skills": [
+      {
+        "Id": "1516",
+        "Name": "终极",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "1531": {
+    "Id": "1531",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "1529",
+        "Name": "风",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1551": {
+    "Id": "1551",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "1549",
+        "Name": "治疗",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1564": {
+    "Id": "1564",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "1562",
+        "Name": "冰",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1598": {
+    "Id": "1598",
+    "Name": "水",
+    "Skills": [
+      {
+        "Id": "1596",
+        "Name": "水",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1609": {
+    "Id": "1609",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "1607",
+        "Name": "火",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1619": {
+    "Id": "1619",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "1617",
+        "Name": "电",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "1628": {
+    "Id": "1628",
+    "Name": "大地元素",
+    "Skills": [
+      {
+        "Id": "1626",
+        "Name": "大地元素",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1636": {
+    "Id": "1636",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "1634",
+        "Name": "黑洞",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "346": {
+    "Id": "346",
+    "Name": "复制",
+    "Skills": [
+      {
+        "Id": "343",
+        "Name": "复制",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}
