@@ -1,0 +1,249 @@
+{
+  "2021": {
+    "Id": "2021",
+    "Name": "重伤",
+    "Skills": [
+      {
+        "Id": "2022",
+        "Name": "重伤",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2041": {
+    "Id": "2041",
+    "Name": "冻结",
+    "Skills": [
+      {
+        "Id": "2036",
+        "Name": "冻结",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2095": {
+    "Id": "2095",
+    "Name": "ZM 隐身",
+    "Skills": [
+      {
+        "Id": "2097",
+        "Name": "ZM 隐身",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2106": {
+    "Id": "2106",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "2107",
+        "Name": "ZM 黑洞",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2715": {
+    "Id": "2715",
+    "Name": "终极",
+    "Skills": [
+      {
+        "Id": "2716",
+        "Name": "终极",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "2707": {
+    "Id": "2707",
+    "Name": "大地元素",
+    "Skills": [
+      {
+        "Id": "2708",
+        "Name": "大地元素",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2650": {
+    "Id": "2650",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "2651",
+        "Name": "火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2669": {
+    "Id": "2669",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "2672",
+        "Name": "电",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "2677": {
+    "Id": "2677",
+    "Name": "剧毒",
+    "Skills": [
+      {
+        "Id": "2679",
+        "Name": "剧毒",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2685": {
+    "Id": "2685",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "2686",
+        "Name": "黑洞",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2692": {
+    "Id": "2692",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "2693",
+        "Name": "风",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2644": {
+    "Id": "2644",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "2647",
+        "Name": "治疗",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2905": {
+    "Id": "2905",
+    "Name": "睡眠",
+    "Skills": [
+      {
+        "Id": "2907",
+        "Name": "睡眠",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3571": {
+    "Id": "3571",
+    "Name": "ZM 仙人掌",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "ZM 仙人掌",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "3599": {
+    "Id": "3599",
+    "Name": "ZM 冰",
+    "Skills": [
+      {
+        "Id": "3595",
+        "Name": "ZM 冰",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3843": {
+    "Id": "3843",
+    "Name": "ZM 火",
+    "Skills": [
+      {
+        "Id": "3838",
+        "Name": "ZM 火",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3844": {
+    "Id": "3844",
+    "Name": "ZM 毒",
+    "Skills": [
+      {
+        "Id": "3848",
+        "Name": "ZM 毒",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3972": {
+    "Id": "3972",
+    "Name": "不死鸟",
+    "Skills": [
+      {
+        "Id": "3973",
+        "Name": "不死鸟",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "4500": {
+    "Id": "4500",
+    "Name": "ZM 致盲",
+    "Skills": [
+      {
+        "Id": "4495",
+        "Name": "ZM 致盲",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}
