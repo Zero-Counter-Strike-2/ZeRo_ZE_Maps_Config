@@ -1,0 +1,178 @@
+{
+  "4359": {
+    "Id": "4359",
+    "Name": "陆行鸟",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "陆行鸟",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "4342": {
+    "Id": "4342",
+    "Name": "补给",
+    "Skills": [
+      {
+        "Id": "4337",
+        "Name": "补给",
+        "Cooldown": 0,
+        "MaxUses": 0,
+        "Mode": 2
+      },
+      {
+        "Id": "11858",
+        "Name": "补给",
+        "Cooldown": 0,
+        "MaxUses": 0,
+        "Mode": 2
+      }
+    ]
+  },
+  "2526": {
+    "Id": "2526",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "2528",
+        "Name": "火",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2558": {
+    "Id": "2558",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "2561",
+        "Name": "电",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2567": {
+    "Id": "2567",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "2569",
+        "Name": "冰",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2576": {
+    "Id": "2576",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "2577",
+        "Name": "黑洞",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2584": {
+    "Id": "2584",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "2585",
+        "Name": "风",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2518": {
+    "Id": "2518",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "2522",
+        "Name": "治疗",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2614": {
+    "Id": "2614",
+    "Name": "ZM 治疗",
+    "Skills": [
+      {
+        "Id": "2611",
+        "Name": "ZM 治疗",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2630": {
+    "Id": "2630",
+    "Name": "ZM 火",
+    "Skills": [
+      {
+        "Id": "2631",
+        "Name": "ZM 火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2652": {
+    "Id": "2652",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "2647",
+        "Name": "ZM 黑洞",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2663": {
+    "Id": "2663",
+    "Name": "ZM 秒杀",
+    "Skills": [
+      {
+        "Id": "2658",
+        "Name": "ZM 秒杀",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "4358": {
+    "Id": "4358",
+    "Name": "ZM 陆行鸟",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "ZM 陆行鸟",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  }
+}

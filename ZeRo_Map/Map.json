@@ -1,7 +1,7 @@
 {
     "ze_aztecnoob_p": {
         "Id": "3070231528",
-        "LangName": "阿兹特克遗迹",
+        "LangName": "阿兹特克遗迹3",
         "JiFen": 60,
         "Shuxing": "简单",
         "CD": 12
@@ -2815,14 +2815,42 @@
     },
     "ze_ffxiv_wanderers_palace_v6_2": {
         "Id": "3459109250",
-        "LangName": "FF14:放浪古神殿v62",
+        "LangName": "FF14:放浪古神殿v62", 
         "JiFen": 300,
         "Shuxing": "高难",
         "CD": 40
     },
     "ze_ffxiv_wanderers_palace": {
         "Id": "3453060884",
-        "LangName": "FF14:放浪古神殿",
+        "LangName": "FF14:放浪古神殿", 
+        "JiFen": 280,
+        "Shuxing": "高难",
+        "CD": 42
+    },
+    "ze_ffxiv_coil_of_bahamut": {
+        "Id": "3400290170",
+        "LangName": "FF14:巴哈姆特大迷宫",
+        "JiFen": 320,
+        "Shuxing": "高难",
+        "CD": 45
+    }
+    "ze_ffxii_mt_bur_omisace_v6": {
+        "Id": "3398706540",
+        "LangName": "最终幻想12-布尔奥米赛斯山",
+        "JiFen": 280,
+        "Shuxing": "困难",
+        "CD": 38
+    }
+    "ze_ffxiv_wanderers_palace_v6_2": {
+        "Id": "3459109250",
+        "LangName": "FF14:放浪古神殿v62", 
+        "JiFen": 300,
+        "Shuxing": "高难",
+        "CD": 40
+    },
+    "ze_ffxiv_wanderers_palace": {
+        "Id": "3453060884",
+        "LangName": "FF14:放浪古神殿", 
         "JiFen": 280,
         "Shuxing": "高难",
         "CD": 42
@@ -2836,3 +2864,6 @@
     }
 
 }
+
+
+

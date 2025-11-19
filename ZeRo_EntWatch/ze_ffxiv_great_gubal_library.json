@@ -1,0 +1,211 @@
+{
+  "15754": {
+    "Id": "15754",
+    "Name": "黑魔法",
+    "Skills": [
+      {
+        "Id": "15763",
+        "Name": "黑魔法",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      },
+      {
+        "Id": "15759",
+        "Name": "黑魔法",
+        "Cooldown": 180,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "15788": {
+    "Id": "15788",
+    "Name": "召唤师",
+    "Skills": [
+      {
+        "Id": "15790",
+        "Name": "召唤师",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "15839": {
+    "Id": "15839",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "15840",
+        "Name": "冰",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "15866": {
+    "Id": "15866",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "15863",
+        "Name": "黑洞",
+        "Cooldown": 30,
+        "MaxUses": 2,
+        "Mode": 4
+      }
+    ]
+  },
+  "15874": {
+    "Id": "15874",
+    "Name": "贤者",
+    "Skills": [
+      {
+        "Id": "15885",
+        "Name": "贤者",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      },
+      {
+        "Id": "15869",
+        "Name": "贤者",
+        "Cooldown": 20,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "24577": {
+    "Id": "24577",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "24580",
+        "Name": "火",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "24669": {
+    "Id": "24669",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "24670",
+        "Name": "电",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "24683": {
+    "Id": "24683",
+    "Name": "毒",
+    "Skills": [
+      {
+        "Id": "24679",
+        "Name": "毒",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "24713": {
+    "Id": "24713",
+    "Name": "加速",
+    "Skills": [
+      {
+        "Id": "24709",
+        "Name": "加速",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "24853": {
+    "Id": "24853",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "24882",
+        "Name": "ZM 黑洞",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "24910": {
+    "Id": "24910",
+    "Name": "ZM 奶",
+    "Skills": [
+      {
+        "Id": "24914",
+        "Name": "ZM 奶",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "24952": {
+    "Id": "24952",
+    "Name": "ZM 护盾",
+    "Skills": [
+      {
+        "Id": "24947",
+        "Name": "ZM 护盾",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "24970": {
+    "Id": "24970",
+    "Name": "ZM 沉默",
+    "Skills": [
+      {
+        "Id": "24965",
+        "Name": "ZM 沉默",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "25107": {
+    "Id": "25107",
+    "Name": "骑士",
+    "Skills": [
+      {
+        "Id": "25105",
+        "Name": "骑士",
+        "Cooldown": 45,
+        "MaxUses": 4,
+        "Mode": 2
+      }
+    ]
+  },
+  "25064": {
+    "Id": "25064",
+    "Name": "ZM 冰",
+    "Skills": [
+      {
+        "Id": "25067",
+        "Name": "ZM 冰",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}

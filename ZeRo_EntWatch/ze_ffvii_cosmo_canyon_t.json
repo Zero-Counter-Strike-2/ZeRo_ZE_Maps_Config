@@ -1,0 +1,197 @@
+{
+  "3464": {
+    "Id": "3464",
+    "Name": "终极",
+    "Skills": [
+      {
+        "Id": "20815",
+        "Name": "终极",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "1878": {
+    "Id": "1878",
+    "Name": "大地元素",
+    "Skills": [
+      {
+        "Id": "20809",
+        "Name": "大地元素",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "4394": {
+    "Id": "4394",
+    "Name": "ZM 致盲",
+    "Skills": [
+      {
+        "Id": "4229",
+        "Name": "ZM 致盲",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2552": {
+    "Id": "2552",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "20813",
+        "Name": "火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "2418": {
+    "Id": "2418",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "20811",
+        "Name": "电",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "4259": {
+    "Id": "4259",
+    "Name": "剧毒",
+    "Skills": [
+      {
+        "Id": "20819",
+        "Name": "剧毒",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "7475": {
+    "Id": "7475",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "20817",
+        "Name": "风",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "4775": {
+    "Id": "4775",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "20821",
+        "Name": "黑洞",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "7519": {
+    "Id": "7519",
+    "Name": "睡眠",
+    "Skills": [
+      {
+        "Id": "20823",
+        "Name": "睡眠",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "7616": {
+    "Id": "7616",
+    "Name": "ZM 毒",
+    "Skills": [
+      {
+        "Id": "7719",
+        "Name": "ZM 毒",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3883": {
+    "Id": "3883",
+    "Name": "不死鸟",
+    "Skills": [
+      {
+        "Id": "3776",
+        "Name": "不死鸟",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "1995": {
+    "Id": "1995",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "20807",
+        "Name": "治疗",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "3332": {
+    "Id": "3332",
+    "Name": "ZM 冰",
+    "Skills": [
+      {
+        "Id": "3339",
+        "Name": "ZM 冰",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "7571": {
+    "Id": "7571",
+    "Name": "ZM 火",
+    "Skills": [
+      {
+        "Id": "3541",
+        "Name": "ZM 火",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "17789": {
+    "Id": "17789",
+    "Name": "ZM 仙人掌",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "ZM 仙人掌",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  }
+}
