@@ -1,0 +1,93 @@
+{
+  "1617": {
+    "Id": "1617",
+    "Name": "剧毒",
+    "Skills": [
+      {
+        "Id": "4349",
+        "Name": "剧毒",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1623": {
+    "Id": "1623",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "4351",
+        "Name": "治疗",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1628": {
+    "Id": "1628",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "4359",
+        "Name": "风",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1633": {
+    "Id": "1633",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "4357",
+        "Name": "火",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1638": {
+    "Id": "1638",
+    "Name": "大地元素",
+    "Skills": [
+      {
+        "Id": "4353",
+        "Name": "大地元素",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1649": {
+    "Id": "1649",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "4355",
+        "Name": "冰",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "632": {
+    "Id": "632",
+    "Name": "水晶",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "水晶",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  }
+}

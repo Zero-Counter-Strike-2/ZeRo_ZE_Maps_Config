@@ -1,0 +1,119 @@
+{
+  "8715": {
+    "Id": "8715",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "8717",
+        "Name": "火",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "8729": {
+    "Id": "8729",
+    "Name": "荧光墙",
+    "Skills": [
+      {
+        "Id": "8731",
+        "Name": "荧光墙",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "8722": {
+    "Id": "8722",
+    "Name": "岩",
+    "Skills": [
+      {
+        "Id": "8724",
+        "Name": "岩",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "8776": {
+    "Id": "8776",
+    "Name": "雷爆",
+    "Skills": [
+      {
+        "Id": "8778",
+        "Name": "雷爆",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "8739": {
+    "Id": "8739",
+    "Name": "赤霄",
+    "Skills": [
+      {
+        "Id": "8741",
+        "Name": "赤霄",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "8746": {
+    "Id": "8746",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "8748",
+        "Name": "治疗",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "8783": {
+    "Id": "8783",
+    "Name": "冻结",
+    "Skills": [
+      {
+        "Id": "8785",
+        "Name": "冻结",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "8753": {
+    "Id": "8753",
+    "Name": "幽水",
+    "Skills": [
+      {
+        "Id": "8755",
+        "Name": "幽水",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "8760": {
+    "Id": "8760",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "8762",
+        "Name": "风",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}
