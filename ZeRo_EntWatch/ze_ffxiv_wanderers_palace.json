@@ -1,0 +1,119 @@
+{
+  "23613": {
+    "Id": "23613",
+    "Name": "壁垒",
+    "Skills": [
+      {
+        "Id": "23616",
+        "Name": "壁垒",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "23627": {
+    "Id": "23627",
+    "Name": "雷电",
+    "Skills": [
+      {
+        "Id": "23630",
+        "Name": "雷电",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "23648": {
+    "Id": "23648",
+    "Name": "弹药",
+    "Skills": [
+      {
+        "Id": "23650",
+        "Name": "弹药",
+        "Cooldown": 110,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "23671": {
+    "Id": "23671",
+    "Name": "流沙",
+    "Skills": [
+      {
+        "Id": "23674",
+        "Name": "流沙",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "23687": {
+    "Id": "23687",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "23690",
+        "Name": "黑洞",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "23721": {
+    "Id": "23721",
+    "Name": "终极",
+    "Skills": [
+      {
+        "Id": "23724",
+        "Name": "终极",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "24301": {
+    "Id": "24301",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "24305",
+        "Name": "治疗",
+        "Cooldown": 90,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "25455": {
+    "Id": "25455",
+    "Name": "ZM 死斗",
+    "Skills": [
+      {
+        "Id": "25459",
+        "Name": "ZM 死斗",
+        "Cooldown": 90,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "25514": {
+    "Id": "25514",
+    "Name": "拉拉菲尔",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "拉拉菲尔",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  }
+}
