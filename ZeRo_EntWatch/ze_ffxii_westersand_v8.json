@@ -8,7 +8,7 @@
         "Name": "流水",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -21,7 +21,7 @@
         "Name": "电",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -34,7 +34,7 @@
         "Name": "火",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -60,7 +60,7 @@
         "Name": "大地元素",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -73,7 +73,7 @@
         "Name": "治疗",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -86,7 +86,7 @@
         "Name": "风",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -99,7 +99,7 @@
         "Name": "ZM 致盲",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -112,7 +112,7 @@
         "Name": "ZM 隐身",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -125,7 +125,7 @@
         "Name": "ZM 秒杀",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -138,7 +138,7 @@
         "Name": "ZM 黑洞",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -151,7 +151,7 @@
         "Name": "ZM 治疗",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -164,7 +164,7 @@
         "Name": "ZM 护盾",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -177,7 +177,7 @@
         "Name": "ZM 火",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -190,7 +190,7 @@
         "Name": "ZM 冰",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   }
