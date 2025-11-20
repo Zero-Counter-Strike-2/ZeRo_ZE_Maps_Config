@@ -8,7 +8,7 @@
         "Name": "ZM闪烁",
         "Cooldown": 50,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -21,7 +21,7 @@
         "Name": "ZM煞星",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -47,7 +47,7 @@
         "Name": "ZM暗影波",
         "Cooldown": 9,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -60,7 +60,7 @@
         "Name": "ZM护盾",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -86,7 +86,7 @@
         "Name": "ZM疗愈",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -99,7 +99,7 @@
         "Name": "治疗",
         "Cooldown": 55,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -125,7 +125,7 @@
         "Name": "耀光",
         "Cooldown": 90,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -138,7 +138,7 @@
         "Name": "冰III",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -151,7 +151,7 @@
         "Name": "重力",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -164,7 +164,7 @@
         "Name": "雷电IV",
         "Cooldown": 40,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -177,7 +177,7 @@
         "Name": "弹射",
         "Cooldown": 5,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -190,7 +190,7 @@
         "Name": "锋矢",
         "Cooldown": 20,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -203,7 +203,7 @@
         "Name": "黑魔",
         "Cooldown": 90,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
