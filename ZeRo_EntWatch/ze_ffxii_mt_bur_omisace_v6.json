@@ -47,7 +47,7 @@
         "Name": "黑洞",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -60,7 +60,7 @@
         "Name": "水",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -73,7 +73,7 @@
         "Name": "雷电",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -86,7 +86,7 @@
         "Name": "流沙",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -99,7 +99,7 @@
         "Name": "龙火球",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -112,7 +112,7 @@
         "Name": "大剑",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -138,7 +138,7 @@
         "Name": "水晶墙",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -151,7 +151,7 @@
         "Name": "洛克斯利之弓",
         "Cooldown": 80,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -164,7 +164,7 @@
         "Name": "火",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -177,7 +177,7 @@
         "Name": "毒",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -203,7 +203,7 @@
         "Name": "风",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -216,7 +216,7 @@
         "Name": "奶",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -229,7 +229,7 @@
         "Name": "ZM黑洞",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -242,14 +242,14 @@
         "Name": "多蕾丝",
         "Cooldown": 70,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       },
       {
         "Id": "0",
         "Name": "多蕾丝",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -262,14 +262,14 @@
         "Name": "伽布拉斯",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       },
       {
         "Id": "0",
         "Name": "伽布拉斯",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -282,14 +282,14 @@
         "Name": "扎尔伽巴斯",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       },
       {
         "Id": "0",
         "Name": "扎尔伽巴斯",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -302,7 +302,7 @@
         "Name": "ZM隐身",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -315,7 +315,7 @@
         "Name": "ZM恐惧",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -328,7 +328,7 @@
         "Name": "ZM秒杀",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   }
