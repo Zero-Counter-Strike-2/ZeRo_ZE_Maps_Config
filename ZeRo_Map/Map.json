@@ -2805,14 +2805,14 @@
         "JiFen": 128,
         "Shuxing": "困难",
         "CD": 48
-    }
+    },
     "ze_ffxii_mt_bur_omisace_v6": {
         "Id": "3398706540",
         "LangName": "最终幻想12-布尔奥米赛斯山",
         "JiFen": 280,
         "Shuxing": "困难",
         "CD": 38
-    }
+    },
     "ze_ffxiv_wanderers_palace_v6_2": {
         "Id": "3459109250",
         "LangName": "FF14:放浪古神殿v62", 
@@ -2836,6 +2836,7 @@
     }
 
 }
+
 
 
 
