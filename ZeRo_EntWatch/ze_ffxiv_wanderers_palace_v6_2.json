@@ -1,0 +1,236 @@
+{
+  "1174": {
+    "Id": "1174",
+    "Name": "ZM闪烁",
+    "Skills": [
+      {
+        "Id": "1170",
+        "Name": "ZM闪烁",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1177": {
+    "Id": "1177",
+    "Name": "ZM煞星",
+    "Skills": [
+      {
+        "Id": "1891",
+        "Name": "ZM煞星",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1178": {
+    "Id": "1178",
+    "Name": "ZM解放",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "ZM解放",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "1165": {
+    "Id": "1165",
+    "Name": "ZM暗影波",
+    "Skills": [
+      {
+        "Id": "1163",
+        "Name": "ZM暗影波",
+        "Cooldown": 9,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1180": {
+    "Id": "1180",
+    "Name": "ZM护盾",
+    "Skills": [
+      {
+        "Id": "1539",
+        "Name": "ZM护盾",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1158": {
+    "Id": "1158",
+    "Name": "ZM古菩",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "ZM古菩",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "1179": {
+    "Id": "1179",
+    "Name": "ZM疗愈",
+    "Skills": [
+      {
+        "Id": "1563",
+        "Name": "ZM疗愈",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1146": {
+    "Id": "1146",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "1895",
+        "Name": "治疗",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1148": {
+    "Id": "1148",
+    "Name": "巴哈姆特",
+    "Skills": [
+      {
+        "Id": "1885",
+        "Name": "巴哈姆特",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "1150": {
+    "Id": "1150",
+    "Name": "耀光",
+    "Skills": [
+      {
+        "Id": "1893",
+        "Name": "耀光",
+        "Cooldown": 90,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1156": {
+    "Id": "1156",
+    "Name": "冰III",
+    "Skills": [
+      {
+        "Id": "1154",
+        "Name": "冰III",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1152": {
+    "Id": "1152",
+    "Name": "重力",
+    "Skills": [
+      {
+        "Id": "1881",
+        "Name": "重力",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1216": {
+    "Id": "1216",
+    "Name": "雷电IV",
+    "Skills": [
+      {
+        "Id": "1214",
+        "Name": "雷电IV",
+        "Cooldown": 40,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1272": {
+    "Id": "1272",
+    "Name": "弹射",
+    "Skills": [
+      {
+        "Id": "1269",
+        "Name": "弹射",
+        "Cooldown": 5,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1279": {
+    "Id": "1279",
+    "Name": "锋矢",
+    "Skills": [
+      {
+        "Id": "1275",
+        "Name": "锋矢",
+        "Cooldown": 20,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1283": {
+    "Id": "1283",
+    "Name": "黑魔",
+    "Skills": [
+      {
+        "Id": "1281",
+        "Name": "黑魔",
+        "Cooldown": 90,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "1785": {
+    "Id": "1785",
+    "Name": "秽梦",
+    "Skills": [
+      {
+        "Id": "1783",
+        "Name": "秽梦",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "1802": {
+    "Id": "1802",
+    "Name": "编织者",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "编织者",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  }
+}
