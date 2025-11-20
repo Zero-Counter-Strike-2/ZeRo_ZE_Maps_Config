@@ -8,7 +8,7 @@
         "Name": "白魔法师",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -21,7 +21,7 @@
         "Name": "占星术师",
         "Cooldown": 70,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -34,7 +34,7 @@
         "Name": "诗人",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -47,7 +47,7 @@
         "Name": "学者",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -60,7 +60,7 @@
         "Name": "电",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -73,14 +73,14 @@
         "Name": "帕拉丁",
         "Cooldown": 25,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       },
       {
         "Id": "0",
         "Name": "帕拉丁",
         "Cooldown": 180,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -93,7 +93,7 @@
         "Name": "ZM秒杀",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -106,7 +106,7 @@
         "Name": "ZM黑洞",
         "Cooldown": 70,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -119,7 +119,7 @@
         "Name": "ZM加速",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -132,7 +132,7 @@
         "Name": "ZM护盾",
         "Cooldown": 70,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -145,7 +145,7 @@
         "Name": "ZM驱散",
         "Cooldown": 70,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   }
