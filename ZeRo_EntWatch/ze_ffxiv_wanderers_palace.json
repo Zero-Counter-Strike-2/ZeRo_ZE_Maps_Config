@@ -8,7 +8,7 @@
         "Name": "壁垒",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -21,7 +21,7 @@
         "Name": "雷电",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -34,7 +34,7 @@
         "Name": "弹药",
         "Cooldown": 110,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -47,7 +47,7 @@
         "Name": "流沙",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -60,7 +60,7 @@
         "Name": "黑洞",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -86,7 +86,7 @@
         "Name": "治疗",
         "Cooldown": 90,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -99,7 +99,7 @@
         "Name": "ZM 死斗",
         "Cooldown": 90,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
