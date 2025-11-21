@@ -1,0 +1,335 @@
+{
+  "6436": {
+    "Id": "6436",
+    "Name": "圣剑",
+    "Skills": [
+      {
+        "Id": "6171",
+        "Name": "圣剑",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "2613": {
+    "Id": "2613",
+    "Name": "终焉",
+    "Skills": [
+      {
+        "Id": "3065",
+        "Name": "终焉",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "5620": {
+    "Id": "5620",
+    "Name": "血墙",
+    "Skills": [
+      {
+        "Id": "3731",
+        "Name": "血墙",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "5390": {
+    "Id": "5390",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "5383",
+        "Name": "黑洞",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4931": {
+    "Id": "4931",
+    "Name": "水",
+    "Skills": [
+      {
+        "Id": "4908",
+        "Name": "水",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5055": {
+    "Id": "5055",
+    "Name": "雷电",
+    "Skills": [
+      {
+        "Id": "4959",
+        "Name": "雷电",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2757": {
+    "Id": "2757",
+    "Name": "流沙",
+    "Skills": [
+      {
+        "Id": "4952",
+        "Name": "流沙",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5663": {
+    "Id": "5663",
+    "Name": "龙火球",
+    "Skills": [
+      {
+        "Id": "5012",
+        "Name": "龙火球",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "6055": {
+    "Id": "6055",
+    "Name": "大剑",
+    "Skills": [
+      {
+        "Id": "2673",
+        "Name": "大剑",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3543": {
+    "Id": "3543",
+    "Name": "圣堂",
+    "Skills": [
+      {
+        "Id": "4848",
+        "Name": "圣堂",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "5099": {
+    "Id": "5099",
+    "Name": "水晶墙",
+    "Skills": [
+      {
+        "Id": "5103",
+        "Name": "水晶墙",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5066": {
+    "Id": "5066",
+    "Name": "洛克斯利之弓",
+    "Skills": [
+      {
+        "Id": "5067",
+        "Name": "洛克斯利之弓",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5387": {
+    "Id": "5387",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "3470",
+        "Name": "火",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5397": {
+    "Id": "5397",
+    "Name": "毒",
+    "Skills": [
+      {
+        "Id": "5393",
+        "Name": "毒",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "6129": {
+    "Id": "6129",
+    "Name": "双手弩",
+    "Skills": [
+      {
+        "Id": "5742",
+        "Name": "双手弩",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 4
+      }
+    ]
+  },
+  "5648": {
+    "Id": "5648",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "5955",
+        "Name": "风",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4930": {
+    "Id": "4930",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "4927",
+        "Name": "奶",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3205": {
+    "Id": "3205",
+    "Name": "ZM黑洞",
+    "Skills": [
+      {
+        "Id": "3210",
+        "Name": "ZM黑洞",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3275": {
+    "Id": "3275",
+    "Name": "多蕾丝",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "多蕾丝",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "0",
+        "Name": "多蕾丝",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3886": {
+    "Id": "3886",
+    "Name": "伽布拉斯",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "伽布拉斯",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "0",
+        "Name": "伽布拉斯",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "25186": {
+    "Id": "25186",
+    "Name": "扎尔伽巴斯",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "扎尔伽巴斯",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "0",
+        "Name": "扎尔伽巴斯",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4925": {
+    "Id": "4925",
+    "Name": "ZM隐身",
+    "Skills": [
+      {
+        "Id": "4922",
+        "Name": "ZM隐身",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3293": {
+    "Id": "3293",
+    "Name": "ZM恐惧",
+    "Skills": [
+      {
+        "Id": "3091",
+        "Name": "ZM恐惧",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3102": {
+    "Id": "3102",
+    "Name": "ZM秒杀",
+    "Skills": [
+      {
+        "Id": "5179",
+        "Name": "ZM秒杀",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}

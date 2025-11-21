@@ -41,7 +41,7 @@
         "Name": "火",
         "Cooldown": 55,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -54,7 +54,7 @@
         "Name": "电",
         "Cooldown": 55,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -67,7 +67,7 @@
         "Name": "冰",
         "Cooldown": 55,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -80,7 +80,7 @@
         "Name": "黑洞",
         "Cooldown": 55,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -93,7 +93,7 @@
         "Name": "风",
         "Cooldown": 55,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -106,7 +106,7 @@
         "Name": "治疗",
         "Cooldown": 55,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -119,7 +119,7 @@
         "Name": "ZM 治疗",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -132,7 +132,7 @@
         "Name": "ZM 火",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -145,7 +145,7 @@
         "Name": "ZM 黑洞",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -158,7 +158,7 @@
         "Name": "ZM 秒杀",
         "Cooldown": 60,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },

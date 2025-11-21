@@ -15,7 +15,7 @@
         "Name": "黑魔法",
         "Cooldown": 180,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -28,7 +28,7 @@
         "Name": "召唤师",
         "Cooldown": 45,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -41,7 +41,7 @@
         "Name": "冰",
         "Cooldown": 70,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -74,7 +74,7 @@
         "Name": "贤者",
         "Cooldown": 20,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -139,7 +139,7 @@
         "Name": "ZM 黑洞",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -152,7 +152,7 @@
         "Name": "ZM 奶",
         "Cooldown": 45,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -165,7 +165,7 @@
         "Name": "ZM 护盾",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -178,7 +178,7 @@
         "Name": "ZM 沉默",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -204,7 +204,7 @@
         "Name": "ZM 冰",
         "Cooldown": 65,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   }

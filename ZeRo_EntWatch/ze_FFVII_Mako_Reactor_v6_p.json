@@ -8,7 +8,7 @@
         "Name": "剧毒",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -21,7 +21,7 @@
         "Name": "盾",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -47,7 +47,7 @@
         "Name": "风",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -60,7 +60,7 @@
         "Name": "治疗",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -73,7 +73,7 @@
         "Name": "冰",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -86,7 +86,7 @@
         "Name": "水",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -99,7 +99,7 @@
         "Name": "火",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -125,7 +125,7 @@
         "Name": "大地元素",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -138,7 +138,7 @@
         "Name": "黑洞",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
@@ -151,8 +151,9 @@
         "Name": "复制",
         "Cooldown": 75,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   }
 }
+

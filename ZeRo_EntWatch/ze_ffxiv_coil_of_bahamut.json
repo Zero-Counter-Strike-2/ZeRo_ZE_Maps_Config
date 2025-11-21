@@ -1,0 +1,152 @@
+{
+  "1134": {
+    "Id": "1134",
+    "Name": "白魔法师",
+    "Skills": [
+      {
+        "Id": "1138",
+        "Name": "白魔法师",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1117": {
+    "Id": "1117",
+    "Name": "占星术师",
+    "Skills": [
+      {
+        "Id": "1120",
+        "Name": "占星术师",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1062": {
+    "Id": "1062",
+    "Name": "诗人",
+    "Skills": [
+      {
+        "Id": "1066",
+        "Name": "诗人",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3005": {
+    "Id": "3005",
+    "Name": "学者",
+    "Skills": [
+      {
+        "Id": "2999",
+        "Name": "学者",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1288": {
+    "Id": "1288",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "1292",
+        "Name": "电",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1868": {
+    "Id": "1868",
+    "Name": "帕拉丁",
+    "Skills": [
+      {
+        "Id": "1855",
+        "Name": "帕拉丁",
+        "Cooldown": 25,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "0",
+        "Name": "帕拉丁",
+        "Cooldown": 180,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1307": {
+    "Id": "1307",
+    "Name": "ZM秒杀",
+    "Skills": [
+      {
+        "Id": "1310",
+        "Name": "ZM秒杀",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1319": {
+    "Id": "1319",
+    "Name": "ZM黑洞",
+    "Skills": [
+      {
+        "Id": "1285",
+        "Name": "ZM黑洞",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1299": {
+    "Id": "1299",
+    "Name": "ZM加速",
+    "Skills": [
+      {
+        "Id": "1303",
+        "Name": "ZM加速",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2959": {
+    "Id": "2959",
+    "Name": "ZM护盾",
+    "Skills": [
+      {
+        "Id": "2960",
+        "Name": "ZM护盾",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3401": {
+    "Id": "3401",
+    "Name": "ZM驱散",
+    "Skills": [
+      {
+        "Id": "3394",
+        "Name": "ZM驱散",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
