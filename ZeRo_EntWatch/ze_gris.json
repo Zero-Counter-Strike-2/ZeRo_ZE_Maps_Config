@@ -8,7 +8,7 @@
         "Name": "ZM 射线",
         "Cooldown": 5,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   },
