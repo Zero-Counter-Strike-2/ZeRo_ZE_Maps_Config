@@ -1,0 +1,58 @@
+{
+  "BOSS的id": {
+    "Name": "BOSS姓名",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "268": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "322": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "36": {
+    "Name": "train_counter-[Cout]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "320": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "339": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "304": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  }
+}

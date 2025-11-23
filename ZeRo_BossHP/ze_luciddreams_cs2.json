@@ -1,0 +1,26 @@
+{
+  "BOSS的id": {
+    "Name": "BOSS姓名",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "4": {
+    "Name": "Level_Counter-[Cout]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "1320": {
+    "Name": "LV1_END_BOSS-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  }
+}

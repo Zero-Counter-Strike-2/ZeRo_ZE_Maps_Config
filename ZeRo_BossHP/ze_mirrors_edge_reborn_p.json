@@ -1,0 +1,58 @@
+{
+  "BOSS的id": {
+    "Name": "BOSS姓名",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2534": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "1760": {
+    "Name": "mapdoor1-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "1768": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "1941": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "1939": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "1772": {
+    "Name": "-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "BOSS的id": {
+    "Name": "BOSS姓名",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "328": {
+    "Name": "Map_Counter-[Cout]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "3248": {
+    "Name": "Map_Case_Legend_Count_2-[Cout]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "3896": {
+    "Name": "Map_Case_Legend_Count-[Cout]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  }
+}

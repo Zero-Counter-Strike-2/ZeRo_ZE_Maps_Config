@@ -1,0 +1,22 @@
+{
+  " TRUCK EVACUATION ": {
+    "Massage": " TRUCK EVACUATION ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " TRAIN EVACUATION ": {
+    "Massage": " TRAIN EVACUATION ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " BOAT EVACUATION ": {
+    "Massage": " BOAT EVACUATION ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " HELICOPTER EVACUATION ": {
+    "Massage": " HELICOPTER EVACUATION ",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

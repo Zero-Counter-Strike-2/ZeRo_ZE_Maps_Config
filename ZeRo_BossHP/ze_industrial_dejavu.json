@@ -1,0 +1,202 @@
+{
+  "BOSS的id": {
+    "Name": "BOSS姓名",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2865": {
+    "Name": "Props_Hallway_7-[HitBox]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "7": {
+    "Name": "EndCounter-[Cout]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2015": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2017": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2035": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2049": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2033": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2051": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2061": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2037": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2043": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2041": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2023": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2511": {
+    "Name": "Props_Hallway_1-[HitBox]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2055": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2029": {
+    "Name": "Props_FirstHall_4-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2508": {
+    "Name": "Props_Hallway_1-[HitBox]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2202": {
+    "Name": "Props_Spot_29-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2222": {
+    "Name": "Props_Spot_29-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2194": {
+    "Name": "Props_Spot_29-[Break]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2189": {
+    "Name": "Props_Spot_29-[HitBox]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2188": {
+    "Name": "Props_Spot_29-[HitBox]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "2176": {
+    "Name": "Props_Spot_29-[HitBox]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  },
+  "34": {
+    "Name": "Global_Level_Counter-[Cout]",
+    "BOSSbar": false,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": false,
+    "BMONEY": 0
+  }
+}

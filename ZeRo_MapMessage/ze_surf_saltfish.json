@@ -1,0 +1,22 @@
+{
+  " Special Thanks to Heyfumi and Killik ": {
+    "Massage": " Special Thanks to Heyfumi and Killik ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " Defend 40s before entering the door ": {
+    "Massage": " Defend 40s before entering the door ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " FALLBACK ": {
+    "Massage": " FALLBACK ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " RESIST 60 SECONDS ": {
+    "Massage": " RESIST 60 SECONDS ",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

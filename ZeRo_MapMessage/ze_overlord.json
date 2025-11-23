@@ -1,0 +1,52 @@
+{
+  "ZE_OVERLORD": {
+    "Massage": "纳萨力克大坟墓(骨王)",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "25S": {
+    "Massage": "25S",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "10S": {
+    "Massage": "10S",
+    "Time-Bool": false,
+    "Value": 0
+  },
+  "20S": {
+    "Massage": "20S",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "塔其米:你执意要踏足此地么?": {
+    "Massage": "塔其米:你执意要踏足此地么?",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "塔其米:亵渎者,你会后悔的": {
+    "Massage": "塔其米:亵渎者,你会后悔的",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "40S": {
+    "Massage": "40S",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "封印纳萨利里克的亡灵于坟墓之内": {
+    "Massage": "封印纳萨利里克的亡灵于坟墓之内",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "ZE_OVERLORD Chapter I": {
+    "Massage": "ZE_OVERLORD Chapter I",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "30S": {
+    "Massage": "30S",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

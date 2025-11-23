@@ -1,0 +1,22 @@
+{
+  " DOOR #1 OPENING IN 30 SECONDS ": {
+    "Massage": " DOOR #1 OPENING IN 30 SECONDS ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " DOOR #1 OPENING IN 20 SECONDS ": {
+    "Massage": " DOOR #1 OPENING IN 20 SECONDS ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " DOOR #1 OPENING IN 10 SECONDS ": {
+    "Massage": " DOOR #1 OPENING IN 10 SECONDS ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " DOOR #1 OPENING IN 5 SECONDS ": {
+    "Massage": " DOOR #1 OPENING IN 5 SECONDS ",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

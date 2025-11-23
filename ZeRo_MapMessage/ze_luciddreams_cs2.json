@@ -1,0 +1,32 @@
+{
+  " 25sec ": {
+    "Massage": " 25sec ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " 5sec ": {
+    "Massage": " 5sec ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "Find the Trigger to break the door": {
+    "Massage": "Find the Trigger to break the door",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " Stage Practice Mode ": {
+    "Massage": " Stage Practice Mode ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " 55sec ": {
+    "Massage": " 55sec ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " 10sec ": {
+    "Massage": " 10sec ",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

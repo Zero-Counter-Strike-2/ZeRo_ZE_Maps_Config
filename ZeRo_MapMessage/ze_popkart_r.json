@@ -1,0 +1,22 @@
+{
+  "关卡一": {
+    "Massage": "关卡一",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "路将在30秒后打开": {
+    "Massage": "路将在30秒后打开",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "“卡丁车已经准备好了，但是我们少了一个轮子”": {
+    "Massage": "“卡丁车已经准备好了，但是我们少了一个轮子”",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "“请在广场上找到它并安装上去”": {
+    "Massage": "“请在广场上找到它并安装上去”",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

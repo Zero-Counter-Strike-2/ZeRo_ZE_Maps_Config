@@ -1,0 +1,37 @@
+{
+  "MAP MADE BY GARGANTUA": {
+    "Massage": "MAP MADE BY GARGANTUA",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 80 SECONDS.": {
+    "Massage": "DOOR WILL OPEN IN 80 SECONDS.",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 60 SECONDS.": {
+    "Massage": "DOOR WILL OPEN IN 60 SECONDS.",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 30 SECONDS.": {
+    "Massage": "DOOR WILL OPEN IN 30 SECONDS.",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 15 SECONDS.": {
+    "Massage": "DOOR WILL OPEN IN 15 SECONDS.",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 10 SECONDS.": {
+    "Massage": "DOOR WILL OPEN IN 10 SECONDS.",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "DOOR IS NOW OPEN!!": {
+    "Massage": "DOOR IS NOW OPEN!!",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

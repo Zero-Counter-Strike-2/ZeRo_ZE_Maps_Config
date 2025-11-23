@@ -1,0 +1,22 @@
+{
+  "Welcome to the city of  NEO EXUYAN": {
+    "Massage": "Welcome to the city of  NEO EXUYAN",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "There is a deadly invisible gas in this city, it seems dangerous, move quickly!": {
+    "Massage": "There is a deadly invisible gas in this city, it seems dangerous, move quickly!",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "The gas has turned some of our squad into ZOMBIES": {
+    "Massage": "The gas has turned some of our squad into ZOMBIES",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "Our mission cannot fail, we must keep moving!": {
+    "Massage": "Our mission cannot fail, we must keep moving!",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

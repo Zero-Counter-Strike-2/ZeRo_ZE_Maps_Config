@@ -1,0 +1,27 @@
+{
+  " Level 1 ": {
+    "Massage": " Level 1 ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "地图授权来自Ruby": {
+    "Massage": "地图授权来自Ruby",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "地图更改意见出自Ruby": {
+    "Massage": "地图更改意见出自Ruby",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "This is a map based on the game STALKER": {
+    "Massage": "This is a map based on the game STALKER",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "The map isn't eazy. It needs good ZE skills and good teamplay": {
+    "Massage": "The map isn't eazy. It needs good ZE skills and good teamplay",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

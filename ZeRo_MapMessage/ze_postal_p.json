@@ -1,0 +1,37 @@
+{
+  "Welcome everyone. this is my first map (don't be harsh please)": {
+    "Massage": "Welcome everyone. this is my first map (don't be harsh please)",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.": {
+    "Massage": "If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "You can find my info on the left side at spawn.": {
+    "Massage": "You can find my info on the left side at spawn.",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "Thanks to Champagne, NiceShot and memories for helping me": {
+    "Massage": "Thanks to Champagne, NiceShot and memories for helping me",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "Special thanks to Kotya for helping me with the most parts.": {
+    "Massage": "Special thanks to Kotya for helping me with the most parts.",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "What the fuck happened? How did I even get here?": {
+    "Massage": "What the fuck happened? How did I even get here?",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "Anyway I need to get out of here.": {
+    "Massage": "Anyway I need to get out of here.",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

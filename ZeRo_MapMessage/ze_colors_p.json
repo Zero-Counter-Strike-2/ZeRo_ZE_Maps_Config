@@ -1,0 +1,37 @@
+{
+  " Hey there! Welcome to ze_colors ": {
+    "Massage": " Hey there! Welcome to ze_colors ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " Believe it or not this map was once a tutorial and twice a duck! ": {
+    "Massage": " Believe it or not this map was once a tutorial and twice a duck! ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " Level: Lemon ": {
+    "Massage": " Level: Lemon ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " This level looks like good old Louisiana: lines and squares all along the little lonely land ": {
+    "Massage": " This level looks like good old Louisiana: lines and squares all along the little lonely land ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " GET GOING! Tension has been built in the spawn area! ": {
+    "Massage": " GET GOING! Tension has been built in the spawn area! ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " RESIST! We're pathetically close to the spawn still! ": {
+    "Massage": " RESIST! We're pathetically close to the spawn still! ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " One tiny bit more! We're almost there! ": {
+    "Massage": " One tiny bit more! We're almost there! ",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}

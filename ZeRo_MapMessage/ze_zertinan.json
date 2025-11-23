@@ -1,0 +1,42 @@
+{
+  "Warm Round": {
+    "Massage": "Warm Round",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " Map By Runa ": {
+    "Massage": " Map By Runa ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  " CS2 Port By @Seth ": {
+    "Massage": " CS2 Port By @Seth ",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "60 seconds remaining": {
+    "Massage": "60 seconds remaining",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "30 seconds remaining": {
+    "Massage": "30 seconds remaining",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "20 seconds remaining": {
+    "Massage": "20 seconds remaining",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "Warm End...": {
+    "Massage": "Warm End...",
+    "Time-Bool": true,
+    "Value": 0
+  },
+  "10 seconds remaining": {
+    "Massage": "10 seconds remaining",
+    "Time-Bool": true,
+    "Value": 0
+  }
+}
