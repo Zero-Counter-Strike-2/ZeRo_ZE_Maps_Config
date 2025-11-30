@@ -1,16 +1,240 @@
 {
-        "ze_fast_escape_p": {
-        "Id": "3070332866",
-        "LangName": "极速逃脱",
-        "JiFen": 60,
-        "Shuxing": "简单",
-        "CD": 12
-    },
-    "ze_abandoned_industry_p": {
-        "Id": "3071209915",
-        "LangName": "废弃工厂逃亡",
-        "JiFen": 60,
-        "Shuxing": "简单",
-        "CD": 12
-    }   
+  "ze_atix_apocalypse_p": {
+    "Id": "3087543130",
+    "LangName": "直升机守点：启示录",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_atix_panic_2017_p": {
+    "Id": "3223525974",
+    "LangName": "直升机守点2017",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_biohazard2_rpd_004_p": {
+    "Id": "3154062503",
+    "LangName": "生化危机：警察局",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_box_defend_v1_4": {
+    "Id": "3133817890",
+    "LangName": "箱子防守",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_chicken_lords_tower_p": {
+    "Id": "3073653424",
+    "LangName": "小鸡城堡",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_colorlicospilar_p": {
+    "Id": "3075687337",
+    "LangName": "彩虹塔",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_dangerous_waters_p": {
+    "Id": "3073379342",
+    "LangName": "危险水域",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_defense3002_p": {
+    "Id": "3073553926",
+    "LangName": "守点防御3002",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_easy_escape_v4": {
+    "Id": "3322882927",
+    "LangName": "EZZE",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_evil_mansion_p": {
+    "Id": "3267932570",
+    "LangName": "邪恶洋馆",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_firewall_laboratory_part2_p": {
+    "Id": "3201034411",
+    "LangName": "防火墙实验室p2",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_forius_just_run_p": {
+    "Id": "3173196031",
+    "LangName": "只管跑",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_guye_room": {
+    "Id": "3518232786",
+    "LangName": "电竞房",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_greencity_p": {
+    "Id": "3194922441",
+    "LangName": "绿之城",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_icecap_escape_p": {
+    "Id": "3075976468",
+    "LangName": "西瓜橘子",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_industrial_dejavu": {
+    "Id": "3303378356",
+    "LangName": "工业循环",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_k19_escape_p": {
+    "Id": "3170603615",
+    "LangName": "k19逃亡",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_licciana_escape_p": {
+    "Id": "3072646272",
+    "LangName": "里西西亚",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_mars_escape_p": {
+    "Id": "3091057104",
+    "LangName": "火星逃亡",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_minecraft_p": {
+    "Id": "3215084604",
+    "LangName": "我的世界",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_minecraft_sakura": {
+    "Id": "3184013959",
+    "LangName": "我的世界：撒库拉",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_ocean_base_escape_p": {
+    "Id": "3076043478",
+    "LangName": "海洋基地",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_otakuroom_pt": {
+    "Id": "3128321209",
+    "LangName": "死宅房",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_panic_escape_p": {
+    "Id": "3142876280",
+    "LangName": "跳刀仓库",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_por_island_p": {
+    "Id": "3071483803",
+    "LangName": "por岛",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_rooftop_runaway1_p": {
+    "Id": "3075946829",
+    "LangName": "屋顶逃亡1",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_saw_p": {
+    "Id": "3171881962",
+    "LangName": "电锯惊魂",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_silent_hill_3_flee": {
+    "Id": "3303191928",
+    "LangName": "寂静岭：逃离",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_venice_escape_p": {
+    "Id": "3173139330",
+    "LangName": "威尼斯",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_voodoo_islands_p": {
+    "Id": "3083304405",
+    "LangName": "巫毒岛",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_winter_warehouse_p": {
+    "Id": "3144617784",
+    "LangName": "冬季仓库",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_zk_fapescape_p": {
+    "Id": "3208033496",
+    "LangName": "小乐高",
+    "JiFen": 0,
+    "Shuxing": "简单",
+    "CD": 0
+  },
+  "ze_fast_escape_p": {
+    "Id": "3070332866",
+    "LangName": "极速逃脱",
+    "JiFen": 60,
+    "Shuxing": "简单",
+    "CD": 12
+  },
+  "ze_abandoned_industry_p": {
+    "Id": "3071209915",
+    "LangName": "废弃工厂逃亡",
+    "JiFen": 60,
+    "Shuxing": "简单",
+    "CD": 12
+  }
 }
