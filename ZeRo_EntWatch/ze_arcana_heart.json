@@ -1,0 +1,106 @@
+{
+  "4310": {
+    "Id": "4310",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "2511",
+        "Name": "风",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4570": {
+    "Id": "4570",
+    "Name": "ZM 奶",
+    "Skills": [
+      {
+        "Id": "4356",
+        "Name": "ZM 奶",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2958": {
+    "Id": "2958",
+    "Name": "ZM 推力",
+    "Skills": [
+      {
+        "Id": "2728",
+        "Name": "ZM 推力",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3169": {
+    "Id": "3169",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "2857",
+        "Name": "奶",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2941": {
+    "Id": "2941",
+    "Name": "ZM 方块",
+    "Skills": [
+      {
+        "Id": "3697",
+        "Name": "ZM 方块",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2845": {
+    "Id": "2845",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "2848",
+        "Name": "黑洞",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3792": {
+    "Id": "3792",
+    "Name": "护盾",
+    "Skills": [
+      {
+        "Id": "2690",
+        "Name": "护盾",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2029": {
+    "Id": "2029",
+    "Name": "ZM 反转",
+    "Skills": [
+      {
+        "Id": "4353",
+        "Name": "ZM 反转",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
