@@ -1,0 +1,210 @@
+{
+  "3751": {
+    "Id": "3751",
+    "Name": "油桶",
+    "Skills": [
+      {
+        "Id": "3748",
+        "Name": "油桶",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1220": {
+    "Id": "1220",
+    "Name": "墙",
+    "Skills": [
+      {
+        "Id": "3281",
+        "Name": "墙",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3375": {
+    "Id": "3375",
+    "Name": "推力",
+    "Skills": [
+      {
+        "Id": "2515",
+        "Name": "推力",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5457": {
+    "Id": "5457",
+    "Name": "定身",
+    "Skills": [
+      {
+        "Id": "5460",
+        "Name": "定身",
+        "Cooldown": 35,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3296": {
+    "Id": "3296",
+    "Name": "护盾",
+    "Skills": [
+      {
+        "Id": "3278",
+        "Name": "护盾",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4083": {
+    "Id": "4083",
+    "Name": "ZM 弹幕",
+    "Skills": [
+      {
+        "Id": "4079",
+        "Name": "ZM 弹幕",
+        "Cooldown": 10,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3213": {
+    "Id": "3213",
+    "Name": "ZM 冰冻",
+    "Skills": [
+      {
+        "Id": "3214",
+        "Name": "ZM 冰冻",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2709": {
+    "Id": "2709",
+    "Name": "ZM 治疗",
+    "Skills": [
+      {
+        "Id": "3933",
+        "Name": "ZM 治疗",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "22055": {
+    "Id": "22055",
+    "Name": "ZM 秒杀",
+    "Skills": [
+      {
+        "Id": "22060",
+        "Name": "ZM 秒杀",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1310": {
+    "Id": "1310",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "3537",
+        "Name": "治疗",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2595": {
+    "Id": "2595",
+    "Name": "1号传送",
+    "Skills": [
+      {
+        "Id": "2603",
+        "Name": "1号传送",
+        "Cooldown": 120,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4092": {
+    "Id": "4092",
+    "Name": "2号传送",
+    "Skills": [
+      {
+        "Id": "4094",
+        "Name": "2号传送",
+        "Cooldown": 120,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3687": {
+    "Id": "3687",
+    "Name": "ZM 1号传送",
+    "Skills": [
+      {
+        "Id": "3675",
+        "Name": "ZM 1号传送",
+        "Cooldown": 120,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2302": {
+    "Id": "2302",
+    "Name": "ZM 2号传送",
+    "Skills": [
+      {
+        "Id": "2299",
+        "Name": "ZM 2号传送",
+        "Cooldown": 120,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3601": {
+    "Id": "3601",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "3608",
+        "Name": "ZM 黑洞",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5547": {
+    "Id": "5547",
+    "Name": "喧闹",
+    "Skills": [
+      {
+        "Id": "5543",
+        "Name": "喧闹",
+        "Cooldown": 15,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
