@@ -1,0 +1,197 @@
+{
+  "3155": {
+    "Id": "3155",
+    "Name": "传送门",
+    "Skills": [
+      {
+        "Id": "3151",
+        "Name": "传送门",
+        "Cooldown": 10,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5069": {
+    "Id": "5069",
+    "Name": "水",
+    "Skills": [
+      {
+        "Id": "5064",
+        "Name": "水",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5128": {
+    "Id": "5128",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "5125",
+        "Name": "风",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "11360": {
+    "Id": "11360",
+    "Name": "礼物",
+    "Skills": [
+      {
+        "Id": "11371",
+        "Name": "礼物",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5150": {
+    "Id": "5150",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "5145",
+        "Name": "电",
+        "Cooldown": 15,
+        "MaxUses": 0,
+        "Mode": 2
+      }
+    ]
+  },
+  "5161": {
+    "Id": "5161",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "5156",
+        "Name": "冰",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5169": {
+    "Id": "5169",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "5164",
+        "Name": "火",
+        "Cooldown": 15,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5181": {
+    "Id": "5181",
+    "Name": "金轮",
+    "Skills": [
+      {
+        "Id": "5174",
+        "Name": "金轮",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5191": {
+    "Id": "5191",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "5186",
+        "Name": "奶",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "4948": {
+    "Id": "4948",
+    "Name": "ZM 虚弱",
+    "Skills": [
+      {
+        "Id": "4945",
+        "Name": "ZM 虚弱",
+        "Cooldown": 55,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "4988": {
+    "Id": "4988",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "4981",
+        "Name": "ZM 黑洞",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5001": {
+    "Id": "5001",
+    "Name": "ZM 盾",
+    "Skills": [
+      {
+        "Id": "4994",
+        "Name": "ZM 盾",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5011": {
+    "Id": "5011",
+    "Name": "ZM 加速",
+    "Skills": [
+      {
+        "Id": "5006",
+        "Name": "ZM 加速",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5023": {
+    "Id": "5023",
+    "Name": "ZM 冰火",
+    "Skills": [
+      {
+        "Id": "5015",
+        "Name": "ZM 冰火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  },
+  "5036": {
+    "Id": "5036",
+    "Name": "ZM 寂灭",
+    "Skills": [
+      {
+        "Id": "5028",
+        "Name": "ZM 寂灭",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 2
+      }
+    ]
+  }
+}
