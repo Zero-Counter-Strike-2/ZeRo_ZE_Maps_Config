@@ -1,0 +1,587 @@
+{
+  "762": {
+    "Id": "762",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "2794",
+        "Name": "风",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "751": {
+    "Id": "751",
+    "Name": "墙",
+    "Skills": [
+      {
+        "Id": "2792",
+        "Name": "墙",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "727": {
+    "Id": "727",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "2790",
+        "Name": "奶",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "714": {
+    "Id": "714",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "2788",
+        "Name": "冰",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "702": {
+    "Id": "702",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "2786",
+        "Name": "火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "699": {
+    "Id": "699",
+    "Name": "坐标之力",
+    "Skills": [
+      {
+        "Id": "2784",
+        "Name": "坐标之力",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "484": {
+    "Id": "484",
+    "Name": "ZM 超大型巨人3",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "ZM 超大型巨人3",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "468": {
+    "Id": "468",
+    "Name": "ZM 超大型巨人2",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "ZM 超大型巨人2",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "579": {
+    "Id": "579",
+    "Name": "雷枪",
+    "Skills": [
+      {
+        "Id": "2772",
+        "Name": "雷枪",
+        "Cooldown": 15,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "543": {
+    "Id": "543",
+    "Name": "ZM 超大型巨人",
+    "Skills": [
+      {
+        "Id": "2770",
+        "Name": "ZM 超大型巨人",
+        "Cooldown": 120,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "617": {
+    "Id": "617",
+    "Name": "立体机动",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "618": {
+    "Id": "618",
+    "Name": "立体机动2",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动2",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "619": {
+    "Id": "619",
+    "Name": "立体机动3",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动3",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "620": {
+    "Id": "620",
+    "Name": "立体机动4",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动4",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "621": {
+    "Id": "621",
+    "Name": "立体机动5",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动5",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "823": {
+    "Id": "823",
+    "Name": "ZM 奇行种巨人",
+    "Skills": [
+      {
+        "Id": "2796",
+        "Name": "ZM 奇行种巨人",
+        "Cooldown": 30,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "832": {
+    "Id": "832",
+    "Name": "ZM 奇行种巨人2",
+    "Skills": [
+      {
+        "Id": "2798",
+        "Name": "ZM 奇行种巨人2",
+        "Cooldown": 8,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "839": {
+    "Id": "839",
+    "Name": "ZM 高跳",
+    "Skills": [
+      {
+        "Id": "2800",
+        "Name": "ZM 高跳",
+        "Cooldown": 5,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "847": {
+    "Id": "847",
+    "Name": "ZM 高跳2",
+    "Skills": [
+      {
+        "Id": "2802",
+        "Name": "ZM 高跳2",
+        "Cooldown": 8,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "858": {
+    "Id": "858",
+    "Name": "ZM 高跳3",
+    "Skills": [
+      {
+        "Id": "2804",
+        "Name": "ZM 高跳3",
+        "Cooldown": 8,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "875": {
+    "Id": "875",
+    "Name": "ZM 兽之巨人",
+    "Skills": [
+      {
+        "Id": "2806",
+        "Name": "ZM 兽之巨人",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "892": {
+    "Id": "892",
+    "Name": "ZM 铠之巨人",
+    "Skills": [
+      {
+        "Id": "2808",
+        "Name": "ZM 铠之巨人",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "904": {
+    "Id": "904",
+    "Name": "ZM 车力巨人",
+    "Skills": [
+      {
+        "Id": "2810",
+        "Name": "ZM 车力巨人",
+        "Cooldown": 30,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "925": {
+    "Id": "925",
+    "Name": "立体机动6",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动6",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "940": {
+    "Id": "940",
+    "Name": "立体机动7",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动7",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "941": {
+    "Id": "941",
+    "Name": "立体机动8",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动8",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "942": {
+    "Id": "942",
+    "Name": "立体机动9",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动9",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "943": {
+    "Id": "943",
+    "Name": "立体机动10",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动10",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "968": {
+    "Id": "968",
+    "Name": "立体机动11",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动11",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "969": {
+    "Id": "969",
+    "Name": "立体机动12",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动12",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "970": {
+    "Id": "970",
+    "Name": "立体机动13",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动13",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "971": {
+    "Id": "971",
+    "Name": "立体机动14",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动14",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "972": {
+    "Id": "972",
+    "Name": "立体机动15",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "立体机动15",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2933": {
+    "Id": "2933",
+    "Name": "VIP立体机动",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2940": {
+    "Id": "2940",
+    "Name": "VIP立体机动2",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动2",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2944": {
+    "Id": "2944",
+    "Name": "VIP立体机动3",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动3",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2948": {
+    "Id": "2948",
+    "Name": "VIP立体机动4",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动4",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2952": {
+    "Id": "2952",
+    "Name": "VIP立体机动5",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动5",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2956": {
+    "Id": "2956",
+    "Name": "VIP立体机动6",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动6",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2960": {
+    "Id": "2960",
+    "Name": "VIP立体机动7",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动7",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2964": {
+    "Id": "2964",
+    "Name": "VIP立体机动8",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动8",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2968": {
+    "Id": "2968",
+    "Name": "VIP立体机动9",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动9",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2972": {
+    "Id": "2972",
+    "Name": "VIP立体机动10",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动10",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2976": {
+    "Id": "2976",
+    "Name": "VIP立体机动11",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动11",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2980": {
+    "Id": "2980",
+    "Name": "VIP立体机动12",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "VIP立体机动12",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
