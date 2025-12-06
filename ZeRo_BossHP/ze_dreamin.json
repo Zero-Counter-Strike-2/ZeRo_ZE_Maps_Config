@@ -1,0 +1,42 @@
+{
+  "2211": {
+    "Name": "结晶体",
+    "BOSSbar": true,
+    "BossEnd": true,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "2060": {
+    "Name": "结晶体",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "873": {
+    "Name": "光芒",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "881": {
+    "Name": "光芒",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "662": {
+    "Name": "墙",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  }
+}
