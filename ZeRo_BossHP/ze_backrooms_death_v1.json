@@ -1,0 +1,10 @@
+{
+  "4613": {
+    "Name": "细菌实体",
+    "BOSSbar": true,
+    "BossEnd": true,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  }
+}
