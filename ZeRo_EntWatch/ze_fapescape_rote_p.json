@@ -1,0 +1,158 @@
+{
+  "330": {
+    "Id": "330",
+    "Name": "Cyka",
+    "Skills": [
+      {
+        "Id": "332",
+        "Name": "Cyka",
+        "Cooldown": 10,
+        "MaxUses": 8,
+        "Mode": 2
+      }
+    ]
+  },
+  "3742": {
+    "Id": "3742",
+    "Name": "手炮",
+    "Skills": [
+      {
+        "Id": "3743",
+        "Name": "手炮",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3657": {
+    "Id": "3657",
+    "Name": "乐高墙",
+    "Skills": [
+      {
+        "Id": "3652",
+        "Name": "乐高墙",
+        "Cooldown": 2,
+        "MaxUses": 10,
+        "Mode": 2
+      }
+    ]
+  },
+  "3710": {
+    "Id": "3710",
+    "Name": "榴弹枪",
+    "Skills": [
+      {
+        "Id": "3711",
+        "Name": "榴弹枪",
+        "Cooldown": 2,
+        "MaxUses": 10,
+        "Mode": 2
+      }
+    ]
+  },
+  "3686": {
+    "Id": "3686",
+    "Name": "喷火器",
+    "Skills": [
+      {
+        "Id": "3687",
+        "Name": "喷火器",
+        "Cooldown": 10,
+        "MaxUses": 8,
+        "Mode": 2
+      }
+    ]
+  },
+  "3664": {
+    "Id": "3664",
+    "Name": "推力枪",
+    "Skills": [
+      {
+        "Id": "3665",
+        "Name": "推力枪",
+        "Cooldown": 35,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3673": {
+    "Id": "3673",
+    "Name": "激光",
+    "Skills": [
+      {
+        "Id": "3679",
+        "Name": "激光",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3699": {
+    "Id": "3699",
+    "Name": "弹药",
+    "Skills": [
+      {
+        "Id": "3700",
+        "Name": "弹药",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3640": {
+    "Id": "3640",
+    "Name": "奥利奥",
+    "Skills": [
+      {
+        "Id": "3635",
+        "Name": "奥利奥",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3717": {
+    "Id": "3717",
+    "Name": "地雷",
+    "Skills": [
+      {
+        "Id": "3718",
+        "Name": "地雷",
+        "Cooldown": 1,
+        "MaxUses": 5,
+        "Mode": 2
+      }
+    ]
+  },
+  "4377": {
+    "Id": "4377",
+    "Name": "香蕉",
+    "Skills": [
+      {
+        "Id": "4378",
+        "Name": "香蕉",
+        "Cooldown": 5,
+        "MaxUses": 15,
+        "Mode": 2
+      }
+    ]
+  },
+  "4386": {
+    "Id": "4386",
+    "Name": "Steam",
+    "Skills": [
+      {
+        "Id": "4387",
+        "Name": "Steam",
+        "Cooldown": 10,
+        "MaxUses": 8,
+        "Mode": 2
+      }
+    ]
+  }
+}
