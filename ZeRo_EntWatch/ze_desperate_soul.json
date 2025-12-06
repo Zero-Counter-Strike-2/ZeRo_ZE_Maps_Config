@@ -1,0 +1,204 @@
+{
+  "4857": {
+    "Id": "4857",
+    "Name": "天星",
+    "Skills": [
+      {
+        "Id": "2450",
+        "Name": "天星",
+        "Cooldown": 30,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2615": {
+    "Id": "2615",
+    "Name": "破晓",
+    "Skills": [
+      {
+        "Id": "2618",
+        "Name": "破晓",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "6327": {
+    "Id": "6327",
+    "Name": "ZM 水",
+    "Skills": [
+      {
+        "Id": "4820",
+        "Name": "ZM 水",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "2751",
+        "Name": "ZM 水",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3120": {
+    "Id": "3120",
+    "Name": "灵光",
+    "Skills": [
+      {
+        "Id": "8198",
+        "Name": "灵光",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3421": {
+    "Id": "3421",
+    "Name": "毒",
+    "Skills": [
+      {
+        "Id": "3417",
+        "Name": "毒",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3426": {
+    "Id": "3426",
+    "Name": "重伤",
+    "Skills": [
+      {
+        "Id": "3431",
+        "Name": "重伤",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3441": {
+    "Id": "3441",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "3445",
+        "Name": "奶",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3511": {
+    "Id": "3511",
+    "Name": "ZM 治疗",
+    "Skills": [
+      {
+        "Id": "3516",
+        "Name": "ZM 治疗",
+        "Cooldown": 40,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5003": {
+    "Id": "5003",
+    "Name": "Ichika",
+    "Skills": [
+      {
+        "Id": "5004",
+        "Name": "Ichika",
+        "Cooldown": 5,
+        "MaxUses": 10,
+        "Mode": 4
+      }
+    ]
+  },
+  "6006": {
+    "Id": "6006",
+    "Name": "神圣",
+    "Skills": [
+      {
+        "Id": "2930",
+        "Name": "神圣",
+        "Cooldown": 20,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5866": {
+    "Id": "5866",
+    "Name": "ZM 吸引",
+    "Skills": [
+      {
+        "Id": "5867",
+        "Name": "ZM 吸引",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5904": {
+    "Id": "5904",
+    "Name": "庇护所",
+    "Skills": [
+      {
+        "Id": "5907",
+        "Name": "庇护所",
+        "Cooldown": 90,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5439": {
+    "Id": "5439",
+    "Name": "光",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "光",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5443": {
+    "Id": "5443",
+    "Name": "暗",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "暗",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "7189": {
+    "Id": "7189",
+    "Name": "地星",
+    "Skills": [
+      {
+        "Id": "7192",
+        "Name": "地星",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
