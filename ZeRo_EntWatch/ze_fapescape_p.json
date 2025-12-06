@@ -1,0 +1,158 @@
+{
+  "108": {
+    "Id": "108",
+    "Name": "大炮",
+    "Skills": [
+      {
+        "Id": "105",
+        "Name": "大炮",
+        "Cooldown": 150,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "755": {
+    "Id": "755",
+    "Name": "推力枪",
+    "Skills": [
+      {
+        "Id": "756",
+        "Name": "推力枪",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "810": {
+    "Id": "810",
+    "Name": "喷火器",
+    "Skills": [
+      {
+        "Id": "804",
+        "Name": "喷火器",
+        "Cooldown": 0,
+        "MaxUses": 7,
+        "Mode": 2
+      }
+    ]
+  },
+  "744": {
+    "Id": "744",
+    "Name": "地雷",
+    "Skills": [
+      {
+        "Id": "742",
+        "Name": "地雷",
+        "Cooldown": 2,
+        "MaxUses": 5,
+        "Mode": 2
+      }
+    ]
+  },
+  "736": {
+    "Id": "736",
+    "Name": "手雷",
+    "Skills": [
+      {
+        "Id": "737",
+        "Name": "手雷",
+        "Cooldown": 5,
+        "MaxUses": 8,
+        "Mode": 2
+      }
+    ]
+  },
+  "752": {
+    "Id": "752",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "753",
+        "Name": "奶",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "783": {
+    "Id": "783",
+    "Name": "乐高墙",
+    "Skills": [
+      {
+        "Id": "781",
+        "Name": "乐高墙",
+        "Cooldown": 3,
+        "MaxUses": 10,
+        "Mode": 2
+      }
+    ]
+  },
+  "2142": {
+    "Id": "2142",
+    "Name": "弹药箱",
+    "Skills": [
+      {
+        "Id": "2157",
+        "Name": "弹药箱",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2186": {
+    "Id": "2186",
+    "Name": "手炮",
+    "Skills": [
+      {
+        "Id": "2184",
+        "Name": "手炮",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2541": {
+    "Id": "2541",
+    "Name": "香蕉",
+    "Skills": [
+      {
+        "Id": "2542",
+        "Name": "香蕉",
+        "Cooldown": 2,
+        "MaxUses": 15,
+        "Mode": 2
+      }
+    ]
+  },
+  "1256": {
+    "Id": "1256",
+    "Name": "Kim",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "Kim",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1268": {
+    "Id": "1268",
+    "Name": "Pass",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "Pass",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
