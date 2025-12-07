@@ -1,0 +1,93 @@
+{
+  "1937": {
+    "Id": "1937",
+    "Name": "星星",
+    "Skills": [
+      {
+        "Id": "1999",
+        "Name": "星星",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1968": {
+    "Id": "1968",
+    "Name": "ZM 奶",
+    "Skills": [
+      {
+        "Id": "2031",
+        "Name": "ZM 奶",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1982": {
+    "Id": "1982",
+    "Name": "ZM 激光",
+    "Skills": [
+      {
+        "Id": "1969",
+        "Name": "ZM 激光",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1992": {
+    "Id": "1992",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "1988",
+        "Name": "ZM 黑洞",
+        "Cooldown": 90,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2136": {
+    "Id": "2136",
+    "Name": "激光",
+    "Skills": [
+      {
+        "Id": "2134",
+        "Name": "激光",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2104": {
+    "Id": "2104",
+    "Name": "方块",
+    "Skills": [
+      {
+        "Id": "2114",
+        "Name": "方块",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2124": {
+    "Id": "2124",
+    "Name": "盾",
+    "Skills": [
+      {
+        "Id": "2118",
+        "Name": "盾",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
