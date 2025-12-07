@@ -1,0 +1,26 @@
+{
+  "8284": {
+    "Name": "玄武",
+    "BOSSbar": true,
+    "BossEnd": true,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "8529": {
+    "Name": "白虎",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "12205": {
+    "Name": "白虎",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  }
+}
