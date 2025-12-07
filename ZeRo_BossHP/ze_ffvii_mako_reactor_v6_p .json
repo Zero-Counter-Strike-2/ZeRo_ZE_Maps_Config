@@ -1,0 +1,10 @@
+{
+  "15": {
+    "Name": "BOSS",
+    "BOSSbar": true,
+    "BossEnd": true,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  }
+}
