@@ -1,0 +1,50 @@
+{
+  "474": {
+    "Name": "盲僧年糕",
+    "BOSSbar": true,
+    "BossEnd": true,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "880": {
+    "Name": "女巫年糕",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "385": {
+    "Name": "年糕王",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "445": {
+    "Name": "卡比",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "502": {
+    "Name": "小骷髅年糕",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "106": {
+    "Name": "骷髅坦克",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  }
+}

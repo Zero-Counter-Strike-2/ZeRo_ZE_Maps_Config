@@ -1,0 +1,42 @@
+{
+  "7560": {
+    "Name": "加农炮",
+    "BOSSbar": true,
+    "BossEnd": true,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "7728": {
+    "Name": "海盗",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "7870": {
+    "Name": "巴博萨",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "9253": {
+    "Name": "北海巨妖-库拉肯",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "9449": {
+    "Name": "巴博萨",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  }
+}

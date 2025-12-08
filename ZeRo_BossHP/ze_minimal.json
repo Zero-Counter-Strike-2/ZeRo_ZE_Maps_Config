@@ -1,0 +1,50 @@
+{
+  "12107": {
+    "Name": "boss",
+    "BOSSbar": true,
+    "BossEnd": true,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "12111": {
+    "Name": "boss",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "12116": {
+    "Name": "boss",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "12119": {
+    "Name": "boss",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "12124": {
+    "Name": "boss",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  },
+  "12129": {
+    "Name": "boss",
+    "BOSSbar": true,
+    "BossEnd": false,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  }
+}

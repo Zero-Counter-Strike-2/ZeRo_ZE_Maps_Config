@@ -1,0 +1,10 @@
+{
+  "4707": {
+    "Name": "僵王博士",
+    "BOSSbar": true,
+    "BossEnd": true,
+    "MAXHP": 0,
+    "BoolMONEY": true,
+    "BMONEY": 50
+  }
+}
