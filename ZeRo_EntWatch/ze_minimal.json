@@ -1,0 +1,158 @@
+{
+  "3926": {
+    "Id": "3926",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "3921",
+        "Name": "风",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3961": {
+    "Id": "3961",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "3958",
+        "Name": "黑洞",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3987": {
+    "Id": "3987",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "3989",
+        "Name": "ZM 黑洞",
+        "Cooldown": 90,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3999": {
+    "Id": "3999",
+    "Name": "ZM 加速",
+    "Skills": [
+      {
+        "Id": "3995",
+        "Name": "ZM 加速",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4010": {
+    "Id": "4010",
+    "Name": "激光墙",
+    "Skills": [
+      {
+        "Id": "4005",
+        "Name": "激光墙",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4040": {
+    "Id": "4040",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "4035",
+        "Name": "冰",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4046": {
+    "Id": "4046",
+    "Name": "ZM 秒杀",
+    "Skills": [
+      {
+        "Id": "4047",
+        "Name": "ZM 秒杀",
+        "Cooldown": 110,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4083": {
+    "Id": "4083",
+    "Name": "ZM 冰",
+    "Skills": [
+      {
+        "Id": "4080",
+        "Name": "ZM 冰",
+        "Cooldown": 25,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4101": {
+    "Id": "4101",
+    "Name": "ZM 火",
+    "Skills": [
+      {
+        "Id": "4098",
+        "Name": "ZM 火",
+        "Cooldown": 25,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4124": {
+    "Id": "4124",
+    "Name": "弹药",
+    "Skills": [
+      {
+        "Id": "4119",
+        "Name": "弹药",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4167": {
+    "Id": "4167",
+    "Name": "减速",
+    "Skills": [
+      {
+        "Id": "4164",
+        "Name": "减速",
+        "Cooldown": 4,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4182": {
+    "Id": "4182",
+    "Name": "ZM 减速",
+    "Skills": [
+      {
+        "Id": "4179",
+        "Name": "ZM 减速",
+        "Cooldown": 4,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
