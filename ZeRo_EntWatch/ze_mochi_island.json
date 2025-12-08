@@ -1,0 +1,119 @@
+{
+  "1373": {
+    "Id": "1373",
+    "Name": "YEAH",
+    "Skills": [
+      {
+        "Id": "1371",
+        "Name": "YEAH",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1551": {
+    "Id": "1551",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "1549",
+        "Name": "奶",
+        "Cooldown": 120,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1566": {
+    "Id": "1566",
+    "Name": "剑",
+    "Skills": [
+      {
+        "Id": "1567",
+        "Name": "剑",
+        "Cooldown": 20,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "427": {
+    "Id": "427",
+    "Name": "推力",
+    "Skills": [
+      {
+        "Id": "424",
+        "Name": "推力",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "159": {
+    "Id": "159",
+    "Name": "小车",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "小车",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1319": {
+    "Id": "1319",
+    "Name": "食物2",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "食物2",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1322": {
+    "Id": "1322",
+    "Name": "食物",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "食物",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1326": {
+    "Id": "1326",
+    "Name": "食物4",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "食物4",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1329": {
+    "Id": "1329",
+    "Name": "食物3",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "食物3",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
