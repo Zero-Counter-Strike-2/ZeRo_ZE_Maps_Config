@@ -1,0 +1,106 @@
+{
+  "9669": {
+    "Id": "9669",
+    "Name": "勋章",
+    "Skills": [
+      {
+        "Id": "9666",
+        "Name": "勋章",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "9806": {
+    "Id": "9806",
+    "Name": "墙",
+    "Skills": [
+      {
+        "Id": "9808",
+        "Name": "墙",
+        "Cooldown": 56,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "9815": {
+    "Id": "9815",
+    "Name": "宝剑",
+    "Skills": [
+      {
+        "Id": "9817",
+        "Name": "宝剑",
+        "Cooldown": 56,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "9826": {
+    "Id": "9826",
+    "Name": "炸弹桶",
+    "Skills": [
+      {
+        "Id": "9828",
+        "Name": "炸弹桶",
+        "Cooldown": 56,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "9847": {
+    "Id": "9847",
+    "Name": "泡泡",
+    "Skills": [
+      {
+        "Id": "9849",
+        "Name": "泡泡",
+        "Cooldown": 56,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "9862": {
+    "Id": "9862",
+    "Name": "治疗",
+    "Skills": [
+      {
+        "Id": "9864",
+        "Name": "治疗",
+        "Cooldown": 56,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "10344": {
+    "Id": "10344",
+    "Name": "最后的勋章",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "最后的勋章",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "10408": {
+    "Id": "10408",
+    "Name": "ZM 船长",
+    "Skills": [
+      {
+        "Id": "2904",
+        "Name": "ZM 船长",
+        "Cooldown": 46,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
