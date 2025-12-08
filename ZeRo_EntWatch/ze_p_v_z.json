@@ -1,0 +1,288 @@
+{
+  "498": {
+    "Id": "498",
+    "Name": "向日葵",
+    "Skills": [
+      {
+        "Id": "4750",
+        "Name": "向日葵",
+        "Cooldown": 30,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "502": {
+    "Id": "502",
+    "Name": "豌豆射手",
+    "Skills": [
+      {
+        "Id": "506",
+        "Name": "豌豆射手",
+        "Cooldown": 6,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "516": {
+    "Id": "516",
+    "Name": "坚果墙",
+    "Skills": [
+      {
+        "Id": "517",
+        "Name": "坚果墙",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "525": {
+    "Id": "525",
+    "Name": "土豆雷",
+    "Skills": [
+      {
+        "Id": "526",
+        "Name": "土豆雷",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "537": {
+    "Id": "537",
+    "Name": "毁灭菇",
+    "Skills": [
+      {
+        "Id": "538",
+        "Name": "毁灭菇",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "645": {
+    "Id": "645",
+    "Name": "寒冰菇",
+    "Skills": [
+      {
+        "Id": "649",
+        "Name": "寒冰菇",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "957": {
+    "Id": "957",
+    "Name": "包裹",
+    "Skills": [
+      {
+        "Id": "960",
+        "Name": "包裹",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "1561": {
+    "Id": "1561",
+    "Name": "睡莲",
+    "Skills": [
+      {
+        "Id": "1557",
+        "Name": "睡莲",
+        "Cooldown": 12,
+        "MaxUses": 4,
+        "Mode": 2
+      }
+    ]
+  },
+  "1585": {
+    "Id": "1585",
+    "Name": "大嘴花",
+    "Skills": [
+      {
+        "Id": "1582",
+        "Name": "大嘴花",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2884": {
+    "Id": "2884",
+    "Name": "西瓜投手",
+    "Skills": [
+      {
+        "Id": "2885",
+        "Name": "西瓜投手",
+        "Cooldown": 15,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2902": {
+    "Id": "2902",
+    "Name": "三叶草",
+    "Skills": [
+      {
+        "Id": "2904",
+        "Name": "三叶草",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3824": {
+    "Id": "3824",
+    "Name": "寒冰射手",
+    "Skills": [
+      {
+        "Id": "3959",
+        "Name": "寒冰射手",
+        "Cooldown": 6,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3878": {
+    "Id": "3878",
+    "Name": "火爆辣椒",
+    "Skills": [
+      {
+        "Id": "3876",
+        "Name": "火爆辣椒",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4171": {
+    "Id": "4171",
+    "Name": "玉米投手",
+    "Skills": [
+      {
+        "Id": "4172",
+        "Name": "玉米投手",
+        "Cooldown": 6,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4230": {
+    "Id": "4230",
+    "Name": "西瓜投手",
+    "Skills": [
+      {
+        "Id": "4231",
+        "Name": "西瓜投手",
+        "Cooldown": 15,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4766": {
+    "Id": "4766",
+    "Name": "大喷菇",
+    "Skills": [
+      {
+        "Id": "4770",
+        "Name": "大喷菇",
+        "Cooldown": 8,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "560": {
+    "Id": "560",
+    "Name": "铁门僵尸",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "铁门僵尸",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "564": {
+    "Id": "564",
+    "Name": "二爷",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "二爷",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "570": {
+    "Id": "570",
+    "Name": "冰车僵尸",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "冰车僵尸",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "669": {
+    "Id": "669",
+    "Name": "弹幕僵尸",
+    "Skills": [
+      {
+        "Id": "661",
+        "Name": "弹幕僵尸",
+        "Cooldown": 8,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "726": {
+    "Id": "726",
+    "Name": "小丑",
+    "Skills": [
+      {
+        "Id": "729",
+        "Name": "小丑",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  },
+  "4214": {
+    "Id": "4214",
+    "Name": "旗帜僵尸",
+    "Skills": [
+      {
+        "Id": "4219",
+        "Name": "旗帜僵尸",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
