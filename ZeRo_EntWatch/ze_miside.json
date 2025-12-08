@@ -1,0 +1,93 @@
+{
+  "2321": {
+    "Id": "2321",
+    "Name": "任务物品",
+    "Skills": [
+      {
+        "Id": "2323",
+        "Name": "任务物品",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3204": {
+    "Id": "3204",
+    "Name": "紫色心情",
+    "Skills": [
+      {
+        "Id": "3206",
+        "Name": "紫色心情",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3176": {
+    "Id": "3176",
+    "Name": "玩具锤",
+    "Skills": [
+      {
+        "Id": "3194",
+        "Name": "玩具锤",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3434": {
+    "Id": "3434",
+    "Name": "玩具鸭",
+    "Skills": [
+      {
+        "Id": "3437",
+        "Name": "玩具鸭",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3465": {
+    "Id": "3465",
+    "Name": "心形吊坠",
+    "Skills": [
+      {
+        "Id": "3468",
+        "Name": "心形吊坠",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3497": {
+    "Id": "3497",
+    "Name": "激光枪",
+    "Skills": [
+      {
+        "Id": "3500",
+        "Name": "激光枪",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "3220": {
+    "Id": "3220",
+    "Name": "ZM 电锯",
+    "Skills": [
+      {
+        "Id": "3221",
+        "Name": "ZM 电锯",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
