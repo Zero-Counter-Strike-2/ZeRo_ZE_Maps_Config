@@ -1,0 +1,152 @@
+{
+  "1684": {
+    "Id": "1684",
+    "Name": "ZM 加速",
+    "Skills": [
+      {
+        "Id": "4142",
+        "Name": "ZM 加速",
+        "Cooldown": 50,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2779": {
+    "Id": "2779",
+    "Name": "护盾",
+    "Skills": [
+      {
+        "Id": "2581",
+        "Name": "护盾",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2470": {
+    "Id": "2470",
+    "Name": "能量球",
+    "Skills": [
+      {
+        "Id": "1994",
+        "Name": "能量球",
+        "Cooldown": 2,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "2794": {
+    "Id": "2794",
+    "Name": "ZM 黑洞",
+    "Skills": [
+      {
+        "Id": "2409",
+        "Name": "ZM 黑洞",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1511": {
+    "Id": "1511",
+    "Name": "ZM 激光",
+    "Skills": [
+      {
+        "Id": "1876",
+        "Name": "ZM 激光",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4141": {
+    "Id": "4141",
+    "Name": "墙",
+    "Skills": [
+      {
+        "Id": "4323",
+        "Name": "墙",
+        "Cooldown": 65,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "4154": {
+    "Id": "4154",
+    "Name": "ZM 能量球",
+    "Skills": [
+      {
+        "Id": "4146",
+        "Name": "ZM 能量球",
+        "Cooldown": 7,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1695": {
+    "Id": "1695",
+    "Name": "传送枪",
+    "Skills": [
+      {
+        "Id": "3725",
+        "Name": "传送枪",
+        "Cooldown": 70,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1854": {
+    "Id": "1854",
+    "Name": "ZM 冰冻球",
+    "Skills": [
+      {
+        "Id": "3566",
+        "Name": "ZM 冰冻球",
+        "Cooldown": 40,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "7688": {
+    "Id": "7688",
+    "Name": "终极",
+    "Skills": [
+      {
+        "Id": "7813",
+        "Name": "终极",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      },
+      {
+        "Id": "7691",
+        "Name": "终极",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "1820": {
+    "Id": "1820",
+    "Name": "可可",
+    "Skills": [
+      {
+        "Id": "4134",
+        "Name": "可可",
+        "Cooldown": 10,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
