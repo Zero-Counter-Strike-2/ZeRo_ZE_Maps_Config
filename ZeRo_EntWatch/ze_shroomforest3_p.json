@@ -1,0 +1,269 @@
+{
+  "1282": {
+    "Id": "1282",
+    "Name": "草墙",
+    "Skills": [
+      {
+        "Id": "1286",
+        "Name": "草墙",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1376": {
+    "Id": "1376",
+    "Name": "水",
+    "Skills": [
+      {
+        "Id": "1363",
+        "Name": "水",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1387": {
+    "Id": "1387",
+    "Name": "重力",
+    "Skills": [
+      {
+        "Id": "1380",
+        "Name": "重力",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1396": {
+    "Id": "1396",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "1390",
+        "Name": "风",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1407": {
+    "Id": "1407",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "1400",
+        "Name": "冰",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1426": {
+    "Id": "1426",
+    "Name": "地雷",
+    "Skills": [
+      {
+        "Id": "1414",
+        "Name": "地雷",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1435": {
+    "Id": "1435",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "1429",
+        "Name": "奶",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1446": {
+    "Id": "1446",
+    "Name": "弹药",
+    "Skills": [
+      {
+        "Id": "1438",
+        "Name": "弹药",
+        "Cooldown": 45,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1447": {
+    "Id": "1447",
+    "Name": "钥匙",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "钥匙",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1646": {
+    "Id": "1646",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "1639",
+        "Name": "火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1715": {
+    "Id": "1715",
+    "Name": "电",
+    "Skills": [
+      {
+        "Id": "1711",
+        "Name": "电",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1727": {
+    "Id": "1727",
+    "Name": "杰尼龟",
+    "Skills": [
+      {
+        "Id": "1728",
+        "Name": "杰尼龟",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1739": {
+    "Id": "1739",
+    "Name": "妙蛙种子",
+    "Skills": [
+      {
+        "Id": "1740",
+        "Name": "妙蛙种子",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1762": {
+    "Id": "1762",
+    "Name": "皮卡丘",
+    "Skills": [
+      {
+        "Id": "1763",
+        "Name": "皮卡丘",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1772": {
+    "Id": "1772",
+    "Name": "百变怪",
+    "Skills": [
+      {
+        "Id": "1773",
+        "Name": "百变怪",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "1792",
+        "Name": "百变怪",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1783": {
+    "Id": "1783",
+    "Name": "ZM 鬼斯",
+    "Skills": [
+      {
+        "Id": "1784",
+        "Name": "ZM 鬼斯",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1751": {
+    "Id": "1751",
+    "Name": "小火龙",
+    "Skills": [
+      {
+        "Id": "1752",
+        "Name": "小火龙",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "894": {
+    "Id": "894",
+    "Name": "闪光皮卡丘",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "闪光皮卡丘",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "882": {
+    "Id": "882",
+    "Name": "大师球",
+    "Skills": [
+      {
+        "Id": "878",
+        "Name": "大师球",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "891": {
+    "Id": "891",
+    "Name": "精灵球",
+    "Skills": [
+      {
+        "Id": "887",
+        "Name": "精灵球",
+        "Cooldown": 5,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
