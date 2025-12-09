@@ -1,0 +1,67 @@
+{
+  "1321": {
+    "Id": "1321",
+    "Name": "疫医",
+    "Skills": [
+      {
+        "Id": "5164",
+        "Name": "疫医",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1329": {
+    "Id": "1329",
+    "Name": "096",
+    "Skills": [
+      {
+        "Id": "5166",
+        "Name": "096",
+        "Cooldown": 100,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1436": {
+    "Id": "1436",
+    "Name": "ZM 恐怖老人",
+    "Skills": [
+      {
+        "Id": "5288",
+        "Name": "ZM 恐怖老人",
+        "Cooldown": 30,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5105": {
+    "Id": "5105",
+    "Name": "万能药",
+    "Skills": [
+      {
+        "Id": "5162",
+        "Name": "万能药",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5131": {
+    "Id": "5131",
+    "Name": "疲惫玉戒",
+    "Skills": [
+      {
+        "Id": "5136",
+        "Name": "疲惫玉戒",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
