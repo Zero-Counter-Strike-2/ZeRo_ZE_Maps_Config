@@ -1,0 +1,145 @@
+{
+  "5451": {
+    "Id": "5451",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "5452",
+        "Name": "火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5478": {
+    "Id": "5478",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "5476",
+        "Name": "奶",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5456": {
+    "Id": "5456",
+    "Name": "草墙",
+    "Skills": [
+      {
+        "Id": "5458",
+        "Name": "草墙",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5486": {
+    "Id": "5486",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "5488",
+        "Name": "冰",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5471": {
+    "Id": "5471",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "5472",
+        "Name": "风",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5468": {
+    "Id": "5468",
+    "Name": "重力",
+    "Skills": [
+      {
+        "Id": "5469",
+        "Name": "重力",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5774": {
+    "Id": "5774",
+    "Name": "地雷",
+    "Skills": [
+      {
+        "Id": "5777",
+        "Name": "地雷",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "5982": {
+    "Id": "5982",
+    "Name": "水",
+    "Skills": [
+      {
+        "Id": "5980",
+        "Name": "水",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "6170": {
+    "Id": "6170",
+    "Name": "弹药",
+    "Skills": [
+      {
+        "Id": "6165",
+        "Name": "弹药",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "6349": {
+    "Id": "6349",
+    "Name": "ZM 雷云",
+    "Skills": [
+      {
+        "Id": "6345",
+        "Name": "ZM 雷云",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "6355": {
+    "Id": "6355",
+    "Name": "ZM 毒蘑菇",
+    "Skills": [
+      {
+        "Id": "6352",
+        "Name": "ZM 毒蘑菇",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
