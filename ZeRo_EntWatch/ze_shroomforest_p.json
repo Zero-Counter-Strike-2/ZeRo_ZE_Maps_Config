@@ -1,0 +1,145 @@
+{
+  "1058": {
+    "Id": "1058",
+    "Name": "弹药",
+    "Skills": [
+      {
+        "Id": "1056",
+        "Name": "弹药",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1126": {
+    "Id": "1126",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "1121",
+        "Name": "奶",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1143": {
+    "Id": "1143",
+    "Name": "地雷",
+    "Skills": [
+      {
+        "Id": "1132",
+        "Name": "地雷",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1156": {
+    "Id": "1156",
+    "Name": "草墙",
+    "Skills": [
+      {
+        "Id": "1149",
+        "Name": "草墙",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1166": {
+    "Id": "1166",
+    "Name": "钥匙",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "钥匙",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1179": {
+    "Id": "1179",
+    "Name": "火",
+    "Skills": [
+      {
+        "Id": "1173",
+        "Name": "火",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1189": {
+    "Id": "1189",
+    "Name": "重力",
+    "Skills": [
+      {
+        "Id": "1183",
+        "Name": "重力",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1197": {
+    "Id": "1197",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "1192",
+        "Name": "风",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "1209": {
+    "Id": "1209",
+    "Name": "冰",
+    "Skills": [
+      {
+        "Id": "1201",
+        "Name": "冰",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "8030": {
+    "Id": "8030",
+    "Name": "齿轮",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "齿轮",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "914": {
+    "Id": "914",
+    "Name": "终极",
+    "Skills": [
+      {
+        "Id": "917",
+        "Name": "终极",
+        "Cooldown": 75,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
