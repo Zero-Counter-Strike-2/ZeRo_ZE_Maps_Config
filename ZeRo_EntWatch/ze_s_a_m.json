@@ -1,0 +1,277 @@
+{
+  "7218": {
+    "Id": "7218",
+    "Name": "土",
+    "Skills": [
+      {
+        "Id": "7219",
+        "Name": "土",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "7232": {
+    "Id": "7232",
+    "Name": "电环",
+    "Skills": [
+      {
+        "Id": "7233",
+        "Name": "电环",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "7271": {
+    "Id": "7271",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "7273",
+        "Name": "奶",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "7281": {
+    "Id": "7281",
+    "Name": "水",
+    "Skills": [
+      {
+        "Id": "7283",
+        "Name": "水",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "7307": {
+    "Id": "7307",
+    "Name": "黑洞",
+    "Skills": [
+      {
+        "Id": "7310",
+        "Name": "黑洞",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "7337": {
+    "Id": "7337",
+    "Name": "风",
+    "Skills": [
+      {
+        "Id": "7339",
+        "Name": "风",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "7368": {
+    "Id": "7368",
+    "Name": "终极",
+    "Skills": [
+      {
+        "Id": "7370",
+        "Name": "终极",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "7406": {
+    "Id": "7406",
+    "Name": "复制",
+    "Skills": [
+      {
+        "Id": "7399",
+        "Name": "复制",
+        "Cooldown": 100,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "10860": {
+    "Id": "10860",
+    "Name": "火把",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "火把",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "12869": {
+    "Id": "12869",
+    "Name": "S_Kirito",
+    "Skills": [
+      {
+        "Id": "12892",
+        "Name": "S_Kirito",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "11545": {
+    "Id": "11545",
+    "Name": "桐人",
+    "Skills": [
+      {
+        "Id": "7575",
+        "Name": "桐人",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "11546": {
+    "Id": "11546",
+    "Name": "亚丝娜",
+    "Skills": [
+      {
+        "Id": "11115",
+        "Name": "亚丝娜",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "6723": {
+    "Id": "6723",
+    "Name": "水晶1",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "水晶1",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "10679": {
+    "Id": "10679",
+    "Name": "水晶5",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "水晶5",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "11645": {
+    "Id": "11645",
+    "Name": "Alice",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "Alice",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "11537": {
+    "Id": "11537",
+    "Name": "ZM 冰/ZM Ice",
+    "Skills": [
+      {
+        "Id": "7428",
+        "Name": "ZM 冰/ZM Ice",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "7438",
+        "Name": "ZM 冰/ZM Ice",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "11542": {
+    "Id": "11542",
+    "Name": "ZM 黑洞/ZM Gravity",
+    "Skills": [
+      {
+        "Id": "7460",
+        "Name": "ZM 黑洞/ZM Gravity",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "7469",
+        "Name": "ZM 黑洞/ZM Gravity",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "11543": {
+    "Id": "11543",
+    "Name": "ZM 隐身/ZM Stealth",
+    "Skills": [
+      {
+        "Id": "7498",
+        "Name": "ZM 隐身/ZM Stealth",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "7508",
+        "Name": "ZM 隐身/ZM Stealth",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "11544": {
+    "Id": "11544",
+    "Name": "ZM 护盾/ZM Shield",
+    "Skills": [
+      {
+        "Id": "7527",
+        "Name": "ZM 护盾/ZM Shield",
+        "Cooldown": 80,
+        "MaxUses": -1,
+        "Mode": 1
+      },
+      {
+        "Id": "7536",
+        "Name": "ZM 护盾/ZM Shield",
+        "Cooldown": 60,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
