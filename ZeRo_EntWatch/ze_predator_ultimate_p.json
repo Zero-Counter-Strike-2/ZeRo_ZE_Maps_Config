@@ -1,0 +1,145 @@
+{
+  "19424": {
+    "Id": "19424",
+    "Name": "奶",
+    "Skills": [
+      {
+        "Id": "19410",
+        "Name": "奶",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "19443": {
+    "Id": "19443",
+    "Name": "榴弹枪",
+    "Skills": [
+      {
+        "Id": "19444",
+        "Name": "榴弹枪",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "19465": {
+    "Id": "19465",
+    "Name": "地雷",
+    "Skills": [
+      {
+        "Id": "19462",
+        "Name": "地雷",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "19734": {
+    "Id": "19734",
+    "Name": "弹药箱",
+    "Skills": [
+      {
+        "Id": "19511",
+        "Name": "弹药箱",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "19531": {
+    "Id": "19531",
+    "Name": "加特林",
+    "Skills": [
+      {
+        "Id": "19529",
+        "Name": "加特林",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "19535": {
+    "Id": "19535",
+    "Name": "样本",
+    "Skills": [
+      {
+        "Id": "19420",
+        "Name": "样本",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "19553": {
+    "Id": "19553",
+    "Name": "喷火器",
+    "Skills": [
+      {
+        "Id": "19550",
+        "Name": "喷火器",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "19560": {
+    "Id": "19560",
+    "Name": "装置",
+    "Skills": [
+      {
+        "Id": "19558",
+        "Name": "装置",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 0
+      }
+    ]
+  },
+  "19569": {
+    "Id": "19569",
+    "Name": "推力枪",
+    "Skills": [
+      {
+        "Id": "19573",
+        "Name": "推力枪",
+        "Cooldown": 15,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "19605": {
+    "Id": "19605",
+    "Name": "脉冲器",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "脉冲器",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "19515": {
+    "Id": "19515",
+    "Name": "高斯枪",
+    "Skills": [
+      {
+        "Id": "19622",
+        "Name": "高斯枪",
+        "Cooldown": 100,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
