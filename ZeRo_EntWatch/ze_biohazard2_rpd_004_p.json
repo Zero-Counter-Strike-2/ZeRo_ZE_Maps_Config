@@ -5,7 +5,7 @@
     "Skills": [
       {
         "Id": "110",
-        "Name": "buttonRocketLauncher",
+        "Name": "火箭筒",
         "Cooldown": 0,
         "MaxUses": 1,
         "Mode": 3
