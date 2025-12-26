@@ -1,0 +1,67 @@
+{
+  "612": {
+    "Id": "612",
+    "Name": "钻石剑",
+    "Skills": [
+      {
+        "Id": "568",
+        "Name": "钻石剑",
+        "Cooldown": 20,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "138": {
+    "Id": "138",
+    "Name": "苦力怕",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "苦力怕",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "139": {
+    "Id": "139",
+    "Name": "弓",
+    "Skills": [
+      {
+        "Id": "148",
+        "Name": "弓",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "316": {
+    "Id": "316",
+    "Name": "南瓜头",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "南瓜头",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  },
+  "382": {
+    "Id": "382",
+    "Name": "Troll Face",
+    "Skills": [
+      {
+        "Id": "0",
+        "Name": "Troll Face",
+        "Cooldown": 0,
+        "MaxUses": -1,
+        "Mode": 1
+      }
+    ]
+  }
+}
