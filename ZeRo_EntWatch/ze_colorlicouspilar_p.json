@@ -1,40 +1,14 @@
 {
-  "武器id": {
-    "Id": "武器id",
-    "Name": "武器名字",
-    "Skills": [
-      {
-        "Id": "按钮id",
-        "Name": "默认技能",
-        "Cooldown": 0,
-        "MaxUses": -1,
-        "Mode": 2
-      }
-    ]
-  },
-  "1338": {
-    "Id": "1338",
-    "Name": "Weapon_1338",
-    "Skills": [
-      {
-        "Id": "Weapon_1338",
-        "Name": "Weapon_1338",
-        "Cooldown": 0,
-        "MaxUses": -1,
-        "Mode": 2
-      }
-    ]
-  },
   "588": {
     "Id": "588",
-    "Name": "Weapon_588",
+    "Name": "棒球棒",
     "Skills": [
       {
-        "Id": "Weapon_588",
-        "Name": "Weapon_588",
-        "Cooldown": 0,
+        "Id": "199",
+        "Name": "棒球棒",
+        "Cooldown": 11,
         "MaxUses": -1,
-        "Mode": 2
+        "Mode": 1
       }
     ]
   }
