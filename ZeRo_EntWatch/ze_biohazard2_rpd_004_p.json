@@ -1,0 +1,15 @@
+{
+  "357": {
+    "Id": "357",
+    "Name": "火箭筒",
+    "Skills": [
+      {
+        "Id": "110",
+        "Name": "buttonRocketLauncher",
+        "Cooldown": 0,
+        "MaxUses": 1,
+        "Mode": 3
+      }
+    ]
+  }
+}
